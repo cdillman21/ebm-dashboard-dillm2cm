@@ -1,0 +1,100 @@
+
+
+## X → Y Framework
+### Current State 
+Top-performing early-career employees often leave within 2–3 years due to limited 
+career development opportunities, lack of mentorship, unclear growth paths, and weak 
+connection to organizational purpose. This results in high turnover and loss of promising talent.
+### Desired State 
+Retain high-potential early-career employees by providing career development, 
+mentorship, recognition, and a strong sense of belonging—ensuring they see a 
+clear future in the organization.
+
+## PICOC Framework
+### Population 
+Early-career employees (0–5 years of experience)
+
+Direct managers who must train and replace lost employees
+
+HR and leadership responsible for workforce planning
+
+### Intervention 
+Structured mentorship and coaching programs
+
+Clear career progression pathways
+
+Regular feedback and recognition systems
+
+Opportunities for skill development and challenging projects
+
+Stronger communication channels between management and early-career staff
+
+### Comparison 
+Maintain the status quo (continue to lose talent and rehire frequently)
+
+Focus retention efforts only on mid-career or senior employees
+
+Rely on financial incentives alone rather than holistic development strategies
+
+### Outcomes 
+Reduced turnover rate among early-career employees (e.g., retention >80% after 3 years)
+
+Higher employee engagement and satisfaction scores
+
+Increased internal promotion rates from early-career to mid-level roles
+
+Stronger employer brand and recruitment appeal
+
+### Context 
+Organizational context: medium-to-large companies competing for skilled talent
+
+Geographic context: primarily in competitive job markets ( North America, Europe, Asia)
+
+Temporal context: critical during the first 2–3 years of employment when turnover risk is highest
+
+## Poor communication between upper-level management and lower-level employees results in 
+misunderstandings, low engagement, and misalignment of organizational goals.
+
+Poor retention of top early-career talent caused by limited career development, 
+weak communication, and lack of recognition results in high turnover, loss of 
+future leaders, and increased recruitment/training costs.
+
+## Why This Problem Matters
+### Impact on Organization
+Higher costs from recruiting and onboarding replacements
+
+Loss of institutional knowledge and leadership pipeline
+
+Slower innovation and productivity from constant turnover
+
+### Stakeholder Impact
+Employees: feel undervalued and leave for better opportunities
+
+Managers: face repeated training burdens and gaps in team capability
+
+HR/Leadership: struggle to maintain workforce stability and talent pipelines
+
+### Strategic Alignment
+Retaining early-career talent supports long-term organizational growth
+
+Aligns with goals around innovation, succession planning, and cost management
+
+Builds a strong culture of employee development and loyalty
+
+## Evidence Questions to Explore
+### For the Problem (Step 2)
+What is our current early-career turnover rate compared to industry benchmarks?
+
+What feedback do exit interviews provide about why employees leave?
+
+Are certain departments/roles experiencing higher attrition than others?
+
+### For the Solution (Step 4)
+What evidence shows mentorship and career development improve retention?
+
+Which organizations have successfully implemented retention strategies for 
+early-career talent?
+
+What risks (e.g., cost, management bandwidth) are associated with these 
+interventions, and how can they be mitigated?
+
