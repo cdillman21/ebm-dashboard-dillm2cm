@@ -327,15 +327,19 @@ incentives
 ### Focus Groups (if applicable)
 #### Focus Group Design
 - **Group Size:** [Target number of participants per group]
-- **Number of Groups:** [How many focus groups planned]
-- **Group Composition:** [Homogeneous or mixed stakeholder groups]
-- **Facilitation:** [Who will facilitate and how]
+- **Number of Groups:** 8-10 focus groups (2 per stakeholder category)
+- **Group Composition:** Homogeneous groups by role (employees separate from managers for honest discussion)
+- **Facilitation:** External facilitator from HR consulting firm to ensure candid feedback without supervisor presence
 
 ## Sampling Strategy
 
 ### Stakeholder Identification
 #### Stakeholder Mapping
-[List specific individuals or groups you'll target]
+Specific groups I'd target:
+- **Current Employees (Tech roles):** Software engineers, data scientists, product managers with 0-5 years tenure
+- **Current Managers:** Engineering managers, tech leads, department heads who oversee retention-critical roles
+- **Senior Leadership:** VP of Engineering, Chief Technology Officer, CHRO who make compensation/culture decisions
+- **Former Employees (Exit Interviews):** Tech talent who left in past 12 months for competitive analysis
 
 #### Sampling Approach
 - **Total Target Sample:** 180-220 total stakeholders across all methods
