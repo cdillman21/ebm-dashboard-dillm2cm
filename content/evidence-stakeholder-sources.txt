@@ -613,4 +613,3 @@ surveys/interviews to validate alignment and identify organization-specific fact
 
 ### Implementation Priorities Based on Stakeholder Input
 Stakeholders prioritize competitive compensation as foundation, followed by manager development for sustainable retention improvements.
-Used AI to help edit and strengthen my response, building out clearer ideas through improved research support and organization.

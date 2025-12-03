@@ -420,4 +420,3 @@ applied)
 
 ### Simplified Analysis
 Focus on readily available data sources and maintain clear documentation of methods and sources.
-Used AI to help edit and strengthen my response, building out clearer ideas through improved research support and organization.

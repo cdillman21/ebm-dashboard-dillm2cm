@@ -832,4 +832,3 @@ My concerns: They might overstate how well things worked (success bias), and I d
 
 **Recommendation:**
 Practitioner evidence provides critical implementation wisdom to operationalize scientific findings. Use practitioner consensus (5/5 or 4/5 agreement) with HIGH confidence. Where practitioners disagree, use scientific evidence as tiebreaker OR select approach matching our context (e.g., Liu's comp focus if budget-constrained, Foster's integrated approach if resources permit). Supplement with frontline manager input before finalizing implementation plan.
-Used AI to help edit and strengthen my response, building out clearer ideas through improved research support and organization.
