@@ -386,7 +386,7 @@
         }
 
         .checklist li:before {
-            content: "✓";
+            content: "•";
             color: var(--accent-blue);
             font-weight: bold;
             position: absolute;
@@ -581,9 +581,10 @@
         }
 
         .key-findings li:before {
-            content: "🔑";
+            content: "►";
             position: absolute;
             left: 0;
+            color: var(--accent-blue);
         }
 
         @media print {
@@ -670,7 +671,7 @@
 
                     <!-- Logic Model Visualization -->
                     <div class="logic-model-preview">
-                        <h3>🎯 Research Logic Model: Early-Career Retention</h3>
+                        <h3>Research Logic Model: Early-Career Retention</h3>
                         <div class="model-flow">
                             <div class="model-box">
                                 <strong>X (Independent)</strong><br>
@@ -691,7 +692,7 @@
 
                     <!-- Key Research Findings -->
                     <div class="key-findings">
-                        <h4>🔑 Key Research Findings</h4>
+                        <h4>Key Research Findings</h4>
                         <ul>
                             <li><strong>Scientific Evidence:</strong> Pay satisfaction predicts retention (d=0.67, 90%+ confidence)</li>
                             <li><strong>Practitioner Insight:</strong> 5 HR experts recommend combined compensation + manager training</li>
@@ -705,10 +706,10 @@
                         <h4>Quick Navigation</h4>
                         <div class="quick-links">
                             <div class="quick-link" onclick="showTab(2)">📚 Evidence Hub</div>
-                            <div class="quick-link" onclick="showTab(3)">🔬 Synthesis</div>
-                            <div class="quick-link" onclick="showTab(4)">🚀 Application</div>
-                            <div class="quick-link" onclick="showTab(5)">📊 Assessment</div>
-                            <div class="quick-link" onclick="window.open('logic-model.html', '_blank')">🎯 Full Logic Model</div>
+                            <div class="quick-link" onclick="showTab(3)"> Synthesis</div>
+                            <div class="quick-link" onclick="showTab(4)"> Application</div>
+                            <div class="quick-link" onclick="showTab(5)"> Assessment</div>
+                            <div class="quick-link" onclick="window.open('logic-model.html', '_blank')"> Full Logic Model</div>
                         </div>
                     </div>
                     
@@ -773,11 +774,11 @@ How will you know if your evidence-based solution worked?</pre>
 
                 <!-- TAB 2: Evidence Hub -->
                 <div class="tab-panel" id="tab-2">
-                    <h2>🔍 Evidence Hub</h2>
+                    <h2>Evidence Hub</h2>
                     <p><strong>Purpose:</strong> Systematically collect and critically evaluate evidence from all four sources.</p>
 
                     <div class="milestone-tracker">
-                        <h4>📋 Milestone 2 & 3 Checkpoints</h4>
+                        <h4>Milestone 2 & 3 Checkpoints</h4>
                         <ul class="checklist">
                             <li><strong>Milestone 2 (Week 6):</strong> Scientific & Practitioner Evidence Complete</li>
                             <li><strong>Milestone 3 (Week 9):</strong> Organizational & Stakeholder Evidence Complete</li>
@@ -788,109 +789,173 @@ How will you know if your evidence-based solution worked?</pre>
                     </div>
 
                     <div style="background: #f8f9fa; padding: 20px; border-radius: 10px; margin: 20px 0;">
-                        <h4>🎯 Evidence Collection Goals:</h4>
+                        <h4>Evidence Collection Goals:</h4>
                         <ul>
                             <li><strong>For Step 2:</strong> What evidence supports our assumed problem?</li>
                             <li><strong>For Step 4:</strong> What evidence supports our preferred solution?</li>
                         </ul>
                     </div>
 
+                    <!-- Visual Evidence Summary Section -->
+                    <div style="background: linear-gradient(135deg, #e3f2fd, #f8f9fa); padding: 30px; border-radius: 10px; margin: 25px 0; border: 2px solid #3498db;">
+                        <h3 style="color: #2c3e50; text-align: center; margin-bottom: 25px;">Evidence Summary Dashboard</h3>
+                        
+                        <!-- Overall Evidence Quality -->
+                        <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-bottom: 25px;">
+                            <h4 style="color: #3498db; margin-bottom: 15px; text-align: center;">Overall Evidence Quality by Type</h4>
+                            <img src="visuals/evidence_overview.png" alt="Evidence Overview" style="width: 100%; max-width: 900px; display: block; margin: 0 auto; border-radius: 8px;">
+                            <p style="font-size: 0.95em; margin-top: 15px; color: #555; text-align: center;">
+                                Scientific: 90% (HIGH) | Practitioner: 85% (HIGH) | Organizational: 65% (MEDIUM) | Stakeholder: 75% (MEDIUM-HIGH)
+                            </p>
+                        </div>
+
+                        <!-- Grid of detailed charts -->
+                        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(500px, 1fr)); gap: 25px; margin-top: 25px;">
+                            
+                            <!-- Scientific Evidence -->
+                            <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+                                <h4 style="color: #27ae60; margin-bottom: 12px;">Scientific Evidence Summary</h4>
+                                <img src="visuals/scientific_evidence_summary.png" alt="Scientific Evidence" style="width: 100%; border-radius: 8px;">
+                                <p style="font-size: 0.9em; margin-top: 12px; color: #555;">
+                                    <strong>5 high-quality studies</strong> with sample sizes from 13K to 4.2M participants. Combined approach shows 55% turnover reduction.
+                                </p>
+                            </div>
+
+                            <!-- Practitioner Evidence -->
+                            <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+                                <h4 style="color: #3498db; margin-bottom: 12px;">Practitioner Evidence Summary</h4>
+                                <img src="visuals/practitioner_consensus.png" alt="Practitioner Consensus" style="width: 100%; border-radius: 8px;">
+                                <p style="font-size: 0.9em; margin-top: 12px; color: #555;">
+                                    <strong>5/5 expert consensus</strong> on competitive compensation, manager training, and development opportunities as top strategies.
+                                </p>
+                            </div>
+
+                            <!-- Organizational Evidence -->
+                            <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+                                <h4 style="color: #f39c12; margin-bottom: 12px;">Organizational Metrics Dashboard</h4>
+                                <img src="visuals/organizational_metrics_dashboard.png" alt="Organizational Metrics" style="width: 100%; border-radius: 8px;">
+                                <p style="font-size: 0.9em; margin-top: 12px; color: #555;">
+                                    <strong>Google case study data:</strong> 12% turnover rate, 2.1 year avg tenure for early-career, 68% engagement (below 80% target).
+                                </p>
+                            </div>
+
+                            <!-- Stakeholder Evidence -->
+                            <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+                                <h4 style="color: #95a5a6; margin-bottom: 12px;">Stakeholder Priorities Summary</h4>
+                                <img src="visuals/stakeholder_priorities.png" alt="Stakeholder Priorities" style="width: 100%; border-radius: 8px;">
+                                <p style="font-size: 0.9em; margin-top: 12px; color: #555;">
+                                    <strong>Gallup (195K workers) + LinkedIn (30K professionals):</strong> Manager quality is #1 priority (87%), followed by career growth (83%).
+                                </p>
+                            </div>
+
+                            <!-- Evidence Synthesis -->
+                            <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); grid-column: 1 / -1;">
+                                <h4 style="color: #2c3e50; margin-bottom: 12px; text-align: center;">Evidence Convergence Across All Sources</h4>
+                                <img src="visuals/evidence_synthesis.png" alt="Evidence Synthesis" style="width: 100%; max-width: 1000px; display: block; margin: 0 auto; border-radius: 8px;">
+                                <p style="font-size: 0.95em; margin-top: 15px; color: #555; text-align: center;">
+                                    <strong>Strong convergence:</strong> All 4 evidence types agree that competitive compensation + manager quality are the highest-impact interventions (avg 83-84% support).
+                                </p>
+                            </div>
+
+                        </div>
+                    </div>
+
                     <!-- Scientific Evidence Section -->
                     <div class="evidence-section">
-                        <h3 class="evidence-type scientific">🔬 Scientific Evidence
-                            <span class="evidence-completion-badge badge-complete">✓ COMPLETE</span>
+                        <h3 class="evidence-type scientific"> Scientific Evidence
+                            <span class="evidence-completion-badge badge-complete"> COMPLETE</span>
                         </h3>
                         
                         <div class="content-file-preview" onclick="openContentFile('evidence-scientific-methods.txt')">
-                            <h4>📝 content/evidence-scientific-methods.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+                            <h4> content/evidence-scientific-methods.txt</h4>
+                            <div class="edit-notice"> Click to edit this file in VS Code</div>
                             <pre>[Document your search strategy, databases used, keywords, and selection criteria]</pre>
                         </div>
 
                         <div class="content-file-preview" onclick="openContentFile('evidence-scientific-sources.txt')">
-                            <h4>📝 content/evidence-scientific-sources.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+                            <h4> content/evidence-scientific-sources.txt</h4>
+                            <div class="edit-notice"> Click to edit this file in VS Code</div>
                             <pre>[List and summarize the research studies, meta-analyses, and systematic reviews you found]</pre>
                         </div>
 
                         <div class="content-file-preview" onclick="openContentFile('evidence-scientific-appraisal.txt')">
-                            <h4>📝 content/evidence-scientific-appraisal.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+                            <h4> content/evidence-scientific-appraisal.txt</h4>
+                            <div class="edit-notice"> Click to edit this file in VS Code</div>
                             <pre>[Evaluate the quality, reliability, and relevance of your scientific evidence]</pre>
                         </div>
                     </div>
 
                     <!-- Practitioner Evidence Section -->
                     <div class="evidence-section">
-                        <h3 class="evidence-type practitioner">👔 Practitioner Evidence
-                            <span class="evidence-completion-badge badge-complete">✓ COMPLETE</span>
+                        <h3 class="evidence-type practitioner"> Practitioner Evidence
+                            <span class="evidence-completion-badge badge-complete"> COMPLETE</span>
                         </h3>
                         
                         <div class="content-file-preview" onclick="openContentFile('evidence-practitioner-methods.txt')">
-                            <h4>📝 content/evidence-practitioner-methods.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+                            <h4> content/evidence-practitioner-methods.txt</h4>
+                            <div class="edit-notice"> Click to edit this file in VS Code</div>
                             <pre>[Document how you collected practitioner insights, interviews, case studies]</pre>
                         </div>
 
                         <div class="content-file-preview" onclick="openContentFile('evidence-practitioner-sources.txt')">
-                            <h4>📝 content/evidence-practitioner-sources.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+                            <h4> content/evidence-practitioner-sources.txt</h4>
+                            <div class="edit-notice"> Click to edit this file in VS Code</div>
                             <pre>[Summarize expert interviews, case studies, and professional experience]</pre>
                         </div>
 
                         <div class="content-file-preview" onclick="openContentFile('evidence-practitioner-appraisal.txt')">
-                            <h4>📝 content/evidence-practitioner-appraisal.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+                            <h4> content/evidence-practitioner-appraisal.txt</h4>
+                            <div class="edit-notice"> Click to edit this file in VS Code</div>
                             <pre>[Assess the credibility and relevance of practitioner evidence]</pre>
                         </div>
                     </div>
 
                     <!-- Organizational Evidence Section -->
                     <div class="evidence-section">
-                        <h3 class="evidence-type organizational">🏢 Organizational Evidence
-                            <span class="evidence-completion-badge badge-complete">✓ COMPLETE</span>
+                        <h3 class="evidence-type organizational"> Organizational Evidence
+                            <span class="evidence-completion-badge badge-complete"> COMPLETE</span>
                         </h3>
                         
                         <div class="content-file-preview" onclick="openContentFile('evidence-organizational-methods.txt')">
-                            <h4>📝 content/evidence-organizational-methods.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+                            <h4> content/evidence-organizational-methods.txt</h4>
+                            <div class="edit-notice"> Click to edit this file in VS Code</div>
                             <pre>[Document internal data collection methods and sources]</pre>
                         </div>
 
                         <div class="content-file-preview" onclick="openContentFile('evidence-organizational-sources.txt')">
-                            <h4>📝 content/evidence-organizational-sources.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+                            <h4> content/evidence-organizational-sources.txt</h4>
+                            <div class="edit-notice"> Click to edit this file in VS Code</div>
                             <pre>[Present internal data, KPIs, reports, and organizational studies]</pre>
                         </div>
 
                         <div class="content-file-preview" onclick="openContentFile('evidence-organizational-appraisal.txt')">
-                            <h4>📝 content/evidence-organizational-appraisal.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+                            <h4> content/evidence-organizational-appraisal.txt</h4>
+                            <div class="edit-notice"> Click to edit this file in VS Code</div>
                             <pre>[Evaluate the quality and limitations of organizational data]</pre>
                         </div>
                     </div>
 
                     <!-- Stakeholder Evidence Section -->
                     <div class="evidence-section">
-                        <h3 class="evidence-type stakeholder">👥 Stakeholder Evidence
-                            <span class="evidence-completion-badge badge-complete">✓ COMPLETE</span>
+                        <h3 class="evidence-type stakeholder"> Stakeholder Evidence
+                            <span class="evidence-completion-badge badge-complete"> COMPLETE</span>
                         </h3>
                         
                         <div class="content-file-preview" onclick="openContentFile('evidence-stakeholder-methods.txt')">
-                            <h4>📝 content/evidence-stakeholder-methods.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+                            <h4> content/evidence-stakeholder-methods.txt</h4>
+                            <div class="edit-notice"> Click to edit this file in VS Code</div>
                             <pre>[Document stakeholder engagement methods, surveys, interviews]</pre>
                         </div>
 
                         <div class="content-file-preview" onclick="openContentFile('evidence-stakeholder-sources.txt')">
-                            <h4>📝 content/evidence-stakeholder-sources.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+                            <h4> content/evidence-stakeholder-sources.txt</h4>
+                            <div class="edit-notice"> Click to edit this file in VS Code</div>
                             <pre>[Summarize stakeholder feedback, surveys, and input]</pre>
                         </div>
 
                         <div class="content-file-preview" onclick="openContentFile('evidence-stakeholder-appraisal.txt')">
-                            <h4>📝 content/evidence-stakeholder-appraisal.txt</h4>
-                            <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+                            <h4> content/evidence-stakeholder-appraisal.txt</h4>
+                            <div class="edit-notice"> Click to edit this file in VS Code</div>
                             <pre>[Assess the representativeness and reliability of stakeholder evidence]</pre>
                         </div>
                     </div>
@@ -898,11 +963,11 @@ How will you know if your evidence-based solution worked?</pre>
 
                 <!-- TAB 3: Aggregation -->
                 <div class="tab-panel" id="tab-3">
-                    <h2>⚖️ Evidence Aggregation</h2>
+                    <h2> Evidence Aggregation</h2>
                     <p><strong>Synthesis Process:</strong> Weigh and combine evidence from multiple sources to form conclusions.</p>
 
                     <div class="milestone-tracker">
-                        <h4>📋 Milestone 4 Checkpoint (Week 12)</h4>
+                        <h4> Milestone 4 Checkpoint (Week 12)</h4>
                         <ul class="checklist">
                             <li>Evidence synthesis across all four types completed</li>
                             <li>Solution design based on evidence analysis</li>
@@ -913,7 +978,7 @@ How will you know if your evidence-based solution worked?</pre>
 
                     <!-- Visual Evidence Summary -->
                     <div style="background: linear-gradient(135deg, #f8f9fa, #e3f2fd); padding: 30px; border-radius: 10px; margin: 25px 0;">
-                        <h3 style="color: #2c3e50; text-align: center; margin-bottom: 20px;">📊 Evidence Strength Visualizations</h3>
+                        <h3 style="color: #2c3e50; text-align: center; margin-bottom: 20px;"> Evidence Strength Visualizations</h3>
                         
                         <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(450px, 1fr)); gap: 25px; margin: 20px 0;">
                             <div style="background: white; padding: 15px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
@@ -951,8 +1016,8 @@ How will you know if your evidence-based solution worked?</pre>
                     </div>
 
                     <div class="content-file-preview" onclick="openContentFile('synthesis-integration.txt')">
-                        <h4>📝 content/synthesis-integration.txt</h4>
-                        <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+                        <h4> content/synthesis-integration.txt</h4>
+                        <div class="edit-notice"> Click to edit this file in VS Code</div>
                         <pre id="evidence-synthesis-content">[Synthesize evidence from all four sources to reach evidence-based conclusions]
 
 Document areas of agreement, disagreement, and evidence quality.
@@ -962,23 +1027,23 @@ Weight the evidence and form recommendations.</pre>
 
                 <!-- TAB 4: Application -->
                 <div class="tab-panel" id="tab-4">
-                    <h2>🚀 Application</h2>
+                    <h2> Application</h2>
                     <p><strong>Implementation Planning:</strong> Put the evidence-based solution into practice.</p>
 
                     <div class="content-file-preview" onclick="openContentFile('application-implementation.txt')">
-                        <h4>📝 content/application-implementation.txt</h4>
-                        <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+                        <h4> content/application-implementation.txt</h4>
+                        <div class="edit-notice"> Click to edit this file in VS Code</div>
                         <pre>[Create detailed implementation plan with timeline, resources, and stakeholder communication]</pre>
                     </div>
                 </div>
 
                 <!-- TAB 5: Assessment -->
                 <div class="tab-panel" id="tab-5">
-                    <h2>📊 Assessment</h2>
+                    <h2> Assessment</h2>
                     <p><strong>Continuous Improvement:</strong> Evaluate results and refine the approach.</p>
 
                     <div class="milestone-tracker">
-                        <h4>📋 Final Submission Checklist (Week 16)</h4>
+                        <h4> Final Submission Checklist (Week 16)</h4>
                         <ul class="checklist">
                             <li>Assessment framework completed</li>
                             <li>Lessons learned documented</li>
@@ -989,16 +1054,16 @@ Weight the evidence and form recommendations.</pre>
                     </div>
 
                     <div class="content-file-preview" onclick="openContentFile('assessment-monitoring.txt')">
-                        <h4>📝 content/assessment-monitoring.txt</h4>
-                        <div class="edit-notice">🖊️ Click to edit this file in VS Code</div>
+                        <h4> content/assessment-monitoring.txt</h4>
+                        <div class="edit-notice"> Click to edit this file in VS Code</div>
                         <pre>[Evaluate the effectiveness of your EBM process and solution]</pre>
                     </div>
 
                     <div style="text-align: center; margin-top: 30px;">
-                        <h3>🎉 EBM Cycle Complete!</h3>
+                        <h3> EBM Cycle Complete!</h3>
                         <p>Congratulations! You've built a professional Evidence-Based Management dashboard.</p>
                         <div>
-                            <button class="btn" onclick="window.open('PROJECT_TRACKER.md')">📊 View Project Tracker</button>
+                            <button class="btn" onclick="window.open('PROJECT_TRACKER.md')"> View Project Tracker</button>
                             <button class="btn" onclick="showTab(1)">↻ Review Complete Process</button>
                         </div>
                     </div>
