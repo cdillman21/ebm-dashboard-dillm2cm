@@ -1,96 +1,72 @@
-# Stakeholder Evidence: Methods & Engagement Strategy
-# Document your approach to gathering stakeholder perspectives and feedback
+# Stakeholder Evidence: How I'd Gather Employee & Manager Feedback
+# My plan for understanding what stakeholders actually think (using external data since I'm a student)
 
-## Stakeholder Evidence Goals
-**Primary Goal:** Understand early-career employee perspectives on compensation satisfaction, career development opportunities, and manager effectiveness to identify specific retention drivers and pain points from those directly affected.
+## What I Wanted to Learn
+**Main Goal:** Understand what early-career employees think about their pay, development opportunities, and managers - basically, what makes them stay or leave.
 
-**Secondary Goal:** Gather feedback from managers, HR partners, and senior leadership on feasibility, concerns, and support for proposed retention solutions (compensation adjustments, development programs, manager training).
+**Secondary Goal:** Get feedback from managers and leadership on whether my proposed solutions (better pay, manager training) are actually feasible and what concerns they'd have.
 
-## Target Stakeholder Groups
+## Who I Would Talk To (If I Worked There)
 
-### Internal Stakeholders
+### Internal Stakeholders I'd Survey
 #### Management/Leadership
-- **Target Participants:** VP-level and above (C-suite, functional VPs), Department Heads managing early-career employees
-- **Sample Size Target:** 15-20 leaders
-- **Engagement Method:** One-on-one interviews (30 minutes) or small group discussions (5-6 leaders, 60 minutes)
-- **Key Questions Focus:** 
-  - What retention challenges do you see in your teams?
-  - What budget/resources are available for retention solutions?
-  - What concerns do you have about compensation adjustments or new programs?
-  - How would you measure success of retention initiatives?
-- **Expected Response Rate:** 75-85% (high priority topic, leadership invested)
+- **Who:** VP-level and up (C-suite, department heads who manage early-career people)
+- **How Many:** 15-20 leaders
+- **How:** One-on-one interviews (30 min) or small group discussions (5-6 people, 60 min)
+- **Key Questions I'd Ask:** 
+  - What retention problems do you see in your teams?
+  - What budget/resources are available for retention fixes?
+  - What worries you about adjusting pay or adding new programs?
+  - How would you measure if retention initiatives worked?
+- **Response Rate I'd Expect:** 75-85% (leaders care about this!)
 
-#### Employees/Staff - Early-Career Cohort (PRIMARY STAKEHOLDER GROUP)
-- **Target Participants:** Employees with 0-3 years tenure in professional/technical roles
-- **Sample Size Target:** 100-150 survey responses, 15-20 interviews
-- **Engagement Method:** Anonymous online survey + voluntary follow-up interviews
-- **Key Questions Focus:** 
-  - What factors most influence your decision to stay or leave?
-  - How satisfied are you with your compensation package?
-  - Are you receiving adequate career development and feedback?
-  - How effective is your manager in supporting your growth?
-  - What would make you more likely to stay long-term?
-- **Expected Response Rate:** 40-50% for survey, 15-20% for interviews (offering incentive)
+#### Early-Career Employees (THE MAIN GROUP!)
+- **Who:** People with 0-3 years experience in professional/tech roles
+- **How Many:** 100-150 survey responses, plus 15-20 interviews
+- **How:** Anonymous online survey + optional follow-up interviews
+- **Key Questions I'd Ask:** 
+  - What factors most affect whether you'll stay or leave?
+  - How satisfied are you with your pay package?
+  - Are you getting enough career development and feedback?
+  - Is your manager helping you grow?
+  - What would make you want to stay long-term?
+- **Response Rate I'd Expect:** 40-50% for survey, 15-20% for interviews (I'd offer gift cards as incentive)
 
 #### Managers of Early-Career Employees
-- **Target Participants:** First-line and mid-level managers with direct reports in 0-3 year tenure range
-- **Sample Size Target:** 40-50 managers
-- **Engagement Method:** Online survey + focus groups (6-8 managers per session)
-- **Key Questions Focus:** 
-  - What challenges do you face in retaining your early-career team members?
-  - Do you have the tools/training to support career development conversations?
-  - What feedback do you receive from your team about compensation, growth opportunities?
-  - What support do you need to improve retention on your team?
-- **Expected Response Rate:** 60-70% (directly relevant to their job performance)
+- **Who:** First-line and mid-level managers with direct reports who have 0-3 years experience
+- **How Many:** 40-50 managers
+- **How:** Online survey + focus groups (6-8 managers per session)
+- **Key Questions I'd Ask:** 
+  - What challenges do YOU face keeping your early-career team members?
+  - Do you have good tools/training to help with career development conversations?
+  - What feedback do you get from your team about pay and growth?
+  - What support do you need to improve retention?
+- **Response Rate I'd Expect:** 60-70% (directly affects their job!)
 
-#### HR Business Partners
-- **Target Participants:** HRBPs supporting departments with high early-career populations
-- **Sample Size Target:** 8-10 HRBPs
-- **Engagement Method:** Structured interviews (45 minutes each)
-- **Key Questions Focus:**
-  - What retention themes are you hearing from employees and managers?
-  - What solutions have worked or failed in your client groups?
-  - What organizational barriers exist to implementing retention programs?
-- **Expected Response Rate:** 90-100% (part of their role)
-
-### External Stakeholders
-#### Recent Departures (Exit Cohort)
-- **Target Participants:** Employees who voluntarily left within last 12 months with 0-3 years tenure
-- **Sample Size Target:** 30-40 individuals
-- **Engagement Method:** Online exit survey (if not already completed) + optional follow-up call
-- **Key Questions Focus:** 
-  - What was the primary reason for your departure?
-  - What could the organization have done to retain you?
-  - How does your new role/compensation compare?
-  - Would you consider returning in the future?
-- **Expected Response Rate:** 25-35% (lower - no longer employed, less incentive)
-
-## Data Collection Methods
+## How I'd Actually Collect the Data
 
 ### Survey Design
-#### Online Survey Platform
-- **Platform Choice:** Qualtrics (enterprise license available through organization)
-- **Survey Length:** 10-15 minutes (25-30 questions total)
-- **Question Types:** 60% Likert scales (1-5), 30% multiple choice/ranking, 10% open-ended
+#### Platform and Setup
+- **Platform:** Qualtrics (most companies have this)
+- **Survey Length:** 10-15 minutes (25-30 questions - not too long!)
+- **Question Mix:** 60% rating scales (1-5), 30% multiple choice/ranking, 10% open-ended
 - **Incentives:** 
-  - Current employees: Entry into raffle for $200 gift cards (5 winners)
-  - Former employees: $25 gift card for completion
-  - Managers: No incentive needed (job-related)
+  - Current employees: Raffle for $200 gift cards (5 winners)
+  - Former employees: $25 gift card for completing
+  - Managers: No incentive (part of their job)
 
-#### Key Survey Questions
-**Problem Assessment Questions (Early-Career Employees):**
-- "How satisfied are you with your current total compensation package?" (1-5 scale)
-- "How clearly do you understand your career path and advancement opportunities?" (1-5 scale)
+#### Key Questions I'd Ask
+**For Early-Career Employees:**
+- "How satisfied are you with your total compensation?" (1-5 scale)
+- "Do you understand your career path and how to advance?" (1-5 scale)
 - "My manager actively supports my professional development" (Strongly Disagree to Strongly Agree)
-- "In the past 6 months, have you seriously considered leaving the organization?" (Yes/No + reasons)
-- "What factors would most influence your decision to stay long-term?" (Rank top 3: compensation, growth, manager,
- culture, work-life balance, mission, benefits)
+- "Have you seriously considered leaving in the past 6 months?" (Yes/No + why)
+- "What would most influence your decision to stay long-term?" (Rank top 3: pay, growth, manager, culture, work-life balance, mission, benefits)
 
-**Problem Assessment Questions (Managers):**
-- "What challenges do you face in retaining early-career employees on your team?" (Open-ended)
-- "How adequate are the tools and resources available to support team member development?" (1-5 scale)
-- "What percentage of your early-career employees have left voluntarily in the past 12 months?" (0%, <10%, 10-20%, 
-20-30%, >30%)
+**For Managers:**
+- "What challenges do you face keeping early-career employees?" (Open-ended - let them explain)
+- "How good are the tools available to support team development?" (1-5 scale)
+- "What % of your early-career employees quit in the past 12 months?" (<10%, 10-20%, 20-30%, >30%)
 
 **Solution Feedback Questions (All Stakeholders):**
 - "How important is competitive compensation for retaining early-career talent?" (Not important to Extremely 

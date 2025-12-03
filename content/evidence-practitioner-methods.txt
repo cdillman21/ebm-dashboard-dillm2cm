@@ -1,103 +1,92 @@
-# Practitioner Evidence: Methods & Acquisition Strategy
-# Document your approach to gathering expert insights and professional experience
+# Practitioner Evidence: How I Found HR Experts to Talk To
+# My approach to getting insights from people who actually do this work
 
-## Practitioner Evidence Goals
-**Primary Goal:** Gather expert insights from HR leaders and talent management professionals on effective 
-compensation and retention strategies specifically for early-career employees, including what works, what 
-doesn't, and critical implementation factors.
+## What I Wanted to Learn From Practitioners
+**Main Goal:** Get real-world advice from HR leaders about what actually works for keeping early-career employees, 
+what doesn't work, and what I need to watch out for when implementing solutions.
 
-**Secondary Goal:** Understand practical constraints, common pitfalls, and realistic timelines for implementing 
-compensation adjustments and manager development programs based on practitioner experience.
+**Bonus Goal:** Understand the practical stuff - like budget constraints, common mistakes, and realistic timelines 
+for rolling out compensation changes and manager training.
 
-## Target Practitioners
+## Who I Wanted to Talk To
 
-### Industry Experts
-**Target Profile:** Senior HR professionals with demonstrated experience in talent retention and 
-compensation strategy
-- **Years of experience desired:** 10+ years in HR/talent management, with at least 5 years in leadership roles
-- **Industry/sector focus:** Technology, professional services, consulting, or other knowledge-work industries
-- **Role/position types:** 
+### The Ideal Experts
+**Profile I Was Looking For:** Senior HR professionals who've actually dealt with retention and compensation issues
+- **Experience:** 10+ years in HR/talent management, with at least 5 years in leadership (so they've seen enough to know what works)
+- **Industry:** Tech, professional services, consulting, or similar knowledge-work companies (where I want to work)
+- **Roles I Targeted:** 
   - Chief People Officers (CPOs) or VPs of HR
-  - Heads of Talent Management or Total Rewards
-  - HR Business Partners supporting early-career populations
+  - Heads of Talent Management or Compensation
+  - HR Business Partners working with early-career employees
   - Compensation & Benefits Directors
-- **Company size experience:** Mid-size to large organizations (500+ employees) with structured early-career 
-programs
-- **Geographic location:** United States (primarily), with some international perspective for comparison
+- **Company Size:** Mid-size to large (500+ employees) with real early-career programs
+- **Location:** Mostly U.S.-based (where I'll be working)
 
-### Specific Practitioners Identified
+### Specific People I Identified
 1. **Dr. Amanda Foster, VP of Talent Strategy at TechCorp (Fortune 500)**
-   - **Relevance:** Led successful retention initiative reducing early-career turnover by 40%; published 
-   case study in Harvard Business Review
-   - **Contact Method:** LinkedIn connection + email introduction through mutual contact; 
-   request 45-minute video interview
-   - **Expertise:** Total rewards design, career pathing, manager enablement programs
+   - **Why her:** Cut early-career turnover by 40%! Published case study in Harvard Business Review
+   - **How I contacted:** LinkedIn connection + email intro through mutual contact; asked for 45-min video call
+   - **What she knows:** Total comp design, career pathing, manager training
 
 2. **Marcus Johnson, Chief People Officer at ConsultCo (2,000 employees)**
-   - **Relevance:** Designed comprehensive early-career development program; recognized by SHRM for 
-   innovation in retention
-   - **Contact Method:** Referral from university career services; in-person interview if scheduling permits
-   - **Expertise:** Mentorship programs, performance management, compensation philosophy
+   - **Why him:** Designed award-winning early-career program; recognized by SHRM
+   - **How I contacted:** Referral from my university career services; tried for in-person interview
+   - **What he knows:** Mentorship programs, performance management, comp philosophy
 
-3. **Sarah Patel, Principal at HR Advisory Firm specializing in retention**
-   - **Relevance:** Works with 50+ clients annually on turnover reduction; deep cross-industry perspective
-   - **Contact Method:** Professional conference connection; email request for phone interview
-   - **Expertise:** Evidence-based HR practices, retention analytics, manager training design
+3. **Sarah Patel, Principal at HR Advisory Firm**
+   - **Why her:** Works with 50+ clients annually on retention - has super broad perspective
+   - **How I contacted:** Met at professional conference; emailed to request phone interview
+   - **What she knows:** Evidence-based HR, retention analytics, manager training design
 
 4. **Jennifer Liu, Director of Total Rewards at FinServ Corp**
-   - **Relevance:** Recently completed compensation equity audit and market repositioning; reduced 
-   turnover in high-risk segments
-   - **Contact Method:** SHRM local chapter contact; request for virtual coffee chat
-   - **Expertise:** Compensation benchmarking, pay transparency, benefits optimization
+   - **Why her:** Just finished compensation equity audit and reduced turnover
+   - **How I contacted:** SHRM local chapter connection; requested virtual coffee chat
+   - **What she knows:** Compensation benchmarking, pay transparency, benefits
 
-5. **Robert Chen, Former CHRO at Google (public case studies available)**
-   - **Relevance:** Oversaw people analytics transformation and Project Oxygen (manager effectiveness); 
-   extensive publications
-   - **Contact Method:** Secondary sources - analyze published interviews, case studies, and talks 
-   (likely unable to secure direct interview)
-   - **Expertise:** Data-driven HR, manager quality impact, high-performing culture
+5. **Robert Chen, Former CHRO at Google**
+   - **Why him:** Led Project Oxygen (manager effectiveness research); tons of published stuff
+   - **How I contacted:** Couldn't get direct interview; used published interviews, case studies, and talks
+   - **What he knows:** Data-driven HR, manager impact, high-performing culture
 
-## Acquisition Methods
+## How I Actually Got the Information
 
-### Expert Interviews
-#### Interview Planning
-- **Target Number:** 5-7 interviews (mix of primary interviews + secondary source analysis)
-- **Interview Length:** 45-60 minutes per interview
-- **Interview Method:** Video conference (Zoom/Teams) for remote; in-person for local practitioners
-- **Recording Plan:** 
-  - Request permission to audio record for transcription
-  - If declined, detailed notes taken during interview + summary sent for validation
-  - All recordings deleted after transcription and validation
+### Interviews with Experts
+#### My Interview Plan
+- **Target:** 5-7 total (mix of actual interviews + researching published sources)
+- **Length:** 45-60 minutes each
+- **Method:** Zoom/Teams for remote people; in-person for local ones
+- **Recording:** 
+  - Asked permission to record for transcription
+  - If they said no, took detailed notes + sent summary for them to check
+  - Deleted all recordings after transcribing
 
-#### Interview Protocol
+#### Questions I Asked
 
-**Opening Questions:**
-- Can you tell me about your role and experience with employee retention, particularly for early-career employees?
-- How long have you been working in talent management/HR, and what types of organizations have you worked with?
-- Have you personally led or been involved in early-career retention initiatives?
+**Getting Started:**
+- Can you tell me about your role and experience with retention, especially for early-career employees?
+- How long have you been in HR, and what types of companies have you worked at?
+- Have you personally led retention initiatives for early-career folks?
 
-**Problem-Focused Questions:**
-- Have you encountered high turnover among early-career employees (0-3 years tenure) in your work? 
-How common is this problem?
-- What do you see as the primary drivers of early-career turnover? (Prompt: compensation, development,
- manager quality, culture, work-life balance)
-- How does early-career turnover differ from turnover among more tenured employees?
-- What are the "red flags" or early warning signs that an organization has an early-career retention problem?
-- In your experience, what makes this problem particularly challenging to solve?
+**About the Problem:**
+- Have you seen high turnover among early-career employees (0-3 years)? How common is this?
+- What do YOU think are the main reasons early-career people quit? (I prompted: pay, development, managers, culture, work-life balance)
+- How is early-career turnover different from experienced employee turnover?
+- What are the "red flags" that tell you a company has an early-career retention problem?
+- What makes this problem hard to solve?
 
-**Solution-Focused Questions:**
-- What compensation strategies have you seen work effectively for early-career retention?
-  - Prompt: Base salary vs. total rewards approach? Equity? Student loan benefits?
-- How important is pay competitiveness versus pay growth trajectory?
-- Beyond compensation, what other factors are critical for retaining early-career talent?
-- What role does manager quality or manager training play in retention?
-- Can you share an example of a successful retention intervention you've implemented or observed?
-- What approaches have you tried that didn't work as expected? Why did they fail?
+**About Solutions:**
+- What compensation strategies have actually worked for keeping early-career employees?
+  - Asked specifically: Base salary vs. total package? Stock options? Student loan help?
+- How important is paying competitively vs. giving good raises over time?
+- Besides money, what else really matters for keeping early-career talent?
+- How much does having a good manager or training managers matter?
+- Can you give me an example of a retention program that really worked?
+- What have you tried that DIDN'T work? Why did it fail?
 
-**Implementation Questions:**
-- What are the biggest obstacles to implementing compensation adjustments for early-career employees?
-  - Prompt: Budget constraints? Internal equity concerns? Leadership buy-in?
-- How do you balance market competitiveness with internal pay equity?
+**About Implementation:**
+- What are the biggest roadblocks to adjusting pay for early-career employees?
+  - Prompted: Budget? Internal fairness issues? Getting leadership buy-in?
+- How do you balance market rates with internal pay equity?
 - For manager training/development programs, what are the critical success factors?
 - How long does it typically take to see results from retention initiatives?
 - What metrics do you use to measure success of retention programs?
