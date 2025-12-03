@@ -2,152 +2,415 @@
 # Document your approach to gathering internal organizational evidence
 
 ## Internal Evidence Goals
-**Primary Goal:** [What internal data do you need about your problem?]
-**Secondary Goal:** [What internal data do you need about solution feasibility?]
+**Primary Goal:** Gather internal data on early-career employee turnover rates, compensation packages, 
+and satisfaction levels to quantify the retention problem and establish baseline metrics.
+
+**Secondary Goal:** Assess organizational capacity and readiness to implement evidence-based compensation
+ and development programs, including budget availability, HR system capabilities, and manager training 
+ infrastructure.
 
 ## Available Data Sources
 
 ### Performance Metrics/KPIs
-- **Financial Data:** [Revenue, costs, profitability metrics]
-- **Operational Data:** [Efficiency, productivity, quality metrics]
-- **Human Resources Data:** [Turnover, satisfaction, performance metrics]
-- **Customer Data:** [Satisfaction, retention, acquisition metrics]
-- **Other Relevant Metrics:** [Industry-specific measurements]
+- **Financial Data:** 
+  - Total compensation expense as % of revenue
+  - Cost per hire and replacement costs for early-career roles
+  - Training and development budget allocation
+  - ROI on retention initiatives
+  
+- **Operational Data:** 
+  - Time-to-productivity for new hires
+  - Project completion rates by employee tenure
+  - Knowledge transfer metrics (documentation, mentorship participation)
+  
+- **Human Resources Data:** 
+  - Voluntary turnover rate (overall and by tenure cohort)
+  - Regrettable vs. non-regrettable turnover
+  - Exit interview themes and reasons for leaving
+  - Offer acceptance rates for early-career positions
+  - Internal mobility and promotion rates
+  - Employee engagement survey scores (overall and by tenure)
+  - Performance ratings distribution by tenure
+  - Benefits enrollment and utilization rates
+  
+- **Customer Data (if applicable):** 
+  - Client satisfaction scores by account team tenure
+  - Account retention correlated with team turnover
+  
+- **Other Relevant Metrics:** 
+  - Glassdoor/employer review ratings
+  - Diversity, equity, inclusion metrics by tenure
+  - Referral rates from early-career employees
 
 ### Internal Systems
-- **CRM Systems:** [Customer relationship data]
-- **ERP Systems:** [Enterprise resource planning data]
-- **HR Information Systems:** [Employee data and metrics]
-- **Financial Systems:** [Accounting and financial data]
-- **Operations Systems:** [Production, service delivery data]
+- **CRM Systems:** Salesforce (for client relationship data if analyzing customer impact)
+- **ERP Systems:** SAP (financial data, compensation budgets)
+- **HR Information Systems (HRIS):** Workday (employee records, turnover, comp data, performance)
+- **Financial Systems:** Oracle Financials (payroll, benefits costs, budget tracking)
+- **Operations Systems:** Project management tools (productivity metrics by employee)
+- **Survey Platforms:** Qualtrics (employee engagement, pulse surveys, exit interviews)
 
 ### Reports and Documentation
-- **Regular Reports:** [Monthly, quarterly, annual reports]
-- **Survey Results:** [Employee, customer, stakeholder surveys]
-- **Audit Results:** [Internal and external audit findings]
-- **Assessment Reports:** [Performance reviews, process evaluations]
-- **Historical Studies:** [Previous internal research or analysis]
+- **Regular Reports:** 
+  - Monthly HR dashboard (turnover, headcount, open positions)
+  - Quarterly compensation analysis (market comparisons, equity analysis)
+  - Annual diversity and inclusion report
+  - Annual employee engagement survey results
+  
+- **Survey Results:** 
+  - Annual engagement survey (last 3 years)
+  - Exit interview database (last 2 years)
+  - New hire pulse surveys (30-60-90 day check-ins)
+  - Manager effectiveness 360 assessments
+  
+- **Audit Results:** 
+  - Compensation equity audits (gender, race pay parity)
+  - Benefits utilization audits
+  
+- **Assessment Reports:** 
+  - Talent review and succession planning docs
+  - Learning & development program effectiveness reports
+  - Manager training completion rates and feedback
+  
+- **Historical Studies:** 
+  - Previous retention task force findings (2022)
+  - Compensation benchmarking studies (annual)
 
 ## Data Collection Plan
 
 ### Quantitative Data Collection
 #### Metrics to Collect
-[List specific metrics relevant to your problem and solution]
 
-**Problem-Related Metrics:**
-- Metric 1: [Name] - Current value: [Number] - Data source: [Where to find it]
-- Metric 2: [Name] - Current value: [Number] - Data source: [Where to find it]
-- Metric 3: [Name] - Current value: [Number] - Data source: [Where to find it]
+**Problem-Related Metrics (Retention - Y Variable):**
+- **Metric 1:** Overall annual voluntary turnover rate
+  - Current value: Extract from HRIS for past 3 years
+  - Data source: Workday termination records, filter by voluntary separations
+  - Segmentation: By tenure (0-1yr, 1-2yr, 2-3yr, 3-5yr, 5+yr), department, role level
+  
+- **Metric 2:** Early-career turnover rate (0-3 years tenure)
+  - Current value: Calculate from HRIS cohort analysis
+  - Data source: Workday, tracking hire-to-termination timeline
+  - Comparison: Benchmark against company average and industry data
+  
+- **Metric 3:** Regrettable turnover rate
+  - Current value: Manager classification in exit process
+  - Data source: Exit interview database + performance rating crosswalk
+  - Definition: High performers (top 2 performance categories) who voluntarily left
+  
+- **Metric 4:** Average tenure in early-career roles
+  - Current value: Median months employed for employees who left within first 3 years
+  - Data source: Workday historical termination data (2-year lookback)
+  
+- **Metric 5:** Replacement cost per early-career departure
+  - Current value: HR Finance calculation (recruiting + training + productivity ramp)
+  - Data source: Finance system (recruiting costs) + HR estimates (onboarding/training time)
+  - Estimated formula: 0.5-1.5× annual salary depending on role
 
-**Solution-Related Metrics:**
-- Metric 1: [Name] - Baseline: [Number] - Data source: [Where to find it]
-- Metric 2: [Name] - Baseline: [Number] - Data source: [Where to find it]
-- Metric 3: [Name] - Baseline: [Number] - Data source: [Where to find it]
+**Mediator Metrics (Satisfaction - M Variable):**
+- **Metric 6:** Overall job satisfaction score (early-career employees)
+  - Baseline: Extract from annual engagement survey, filter by tenure 0-3 years
+  - Data source: Qualtrics survey results, "Overall, I am satisfied with my job" (1-5 scale)
+  - Trend: Compare last 3 annual surveys
+  
+- **Metric 7:** Compensation satisfaction score
+  - Baseline: "I am satisfied with my total compensation package" (1-5 scale)
+  - Data source: Annual engagement survey
+  - Segmentation: By tenure cohort
+  
+- **Metric 8:** Manager effectiveness score
+  - Baseline: "My manager helps me develop my career" (1-5 scale)
+  - Data source: Annual engagement survey + manager 360 assessments
+  - Filter: Responses from employees with 0-3 years tenure
+  
+- **Metric 9:** Career development satisfaction
+  - Baseline: "I have opportunities to learn and grow in my role" (1-5 scale)
+  - Data source: Annual engagement survey
+  - Additional: Learning & development program participation rates
+
+**Solution-Related Metrics (Compensation - X Variable):**
+- **Metric 10:** Average total compensation for early-career roles
+  - Baseline: Extract current comp data from HRIS
+  - Data source: Workday compensation module (base salary + bonus + benefits value)
+  - Segmentation: By role, department, location
+  - Market comparison: Compare to BLS ECI and industry benchmarks
+  
+- **Metric 11:** Compensation competitiveness ratio
+  - Baseline: Internal pay ÷ Market 50th percentile for each role
+  - Data source: Annual compensation benchmarking study (external data + HRIS)
+  - Target: Ratio ≥1.0 (at or above market median)
+  
+- **Metric 12:** Benefits utilization rate
+  - Baseline: % of early-career employees enrolled in key benefits
+  - Data source: Benefits administration system
+  - Key benefits: Health insurance, 401k, professional development, student loan assistance
+  
+- **Metric 13:** Average annual pay increase %
+  - Baseline: Year-over-year base salary increase for retained early-career employees
+  - Data source: Workday compensation history
+  - Benchmark: Compare to BLS ECI growth rate (3-4% recent years)
+  
+- **Metric 14:** Manager training completion rate
+  - Baseline: % of managers who completed career coaching/development training
+  - Data source: Learning management system (LMS)
+  - Filter: Managers of early-career employees specifically
 
 #### Time Period Analysis
-- **Historical Data Range:** [How far back will you look?]
-- **Trend Analysis Period:** [What timeframe for trend identification?]
-- **Seasonal Considerations:** [Any seasonal patterns to account for?]
-- **Baseline Period:** [What period represents "normal" operations?]
+- **Historical Data Range:** 3 years (2022-2024) for trend identification
+- **Trend Analysis Period:** Quarterly for turnover rates; annually for compensation and engagement
+- **Seasonal Considerations:** 
+  - Q4 (bonus season) typically shows lower quits
+  - Q1 (post-bonus) often shows spike in resignations
+  - Summer months (May-August) higher due to graduate recruiting cycle departures
+- **Baseline Period:** 2023 (most recent complete year) represents "normal" post-COVID operations
 
 ### Qualitative Data Collection
 #### Internal Documents Review
-- **Policy Documents:** [Relevant policies and procedures]
-- **Meeting Minutes:** [Records of relevant discussions]
-- **Communication Records:** [Emails, memos, announcements]
-- **Project Reports:** [Previous initiative outcomes]
+- **Policy Documents:** 
+  - Current compensation philosophy and salary bands
+  - Benefits policy handbook
+  - Performance management and promotion guidelines
+  - Manager training curriculum and requirements
+  - Early-career development program documentation
+  
+- **Meeting Minutes:** 
+  - Talent review meetings (last 2 years) - themes about retention challenges
+  - Compensation committee discussions on market positioning
+  - HR leadership team notes on turnover trends
+  
+- **Communication Records:** 
+  - CEO/leadership communications about talent priorities
+  - Exit interview email transcripts for detailed departure reasons
+  - Manager feedback emails from HR business partners
+  
+- **Project Reports:** 
+  - 2022 Retention Task Force recommendations and outcomes
+  - Previous manager training pilot program results
+  - Benefits enhancement project impact assessment
 
 #### Observational Data
-- **Process Observations:** [What processes can you observe?]
-- **Workflow Analysis:** [How work actually gets done]
-- **Communication Patterns:** [How information flows]
-- **Cultural Observations:** [Organizational behavior patterns]
+- **Process Observations:** 
+  - Onboarding process walkthrough to observe early-career employee experience
+  - Manager 1-on-1 meetings (with permission) to assess career development conversations
+  - Career development program sessions (mentorship kickoffs, training workshops)
+  
+- **Workflow Analysis:** 
+  - Time allocation analysis for early-career employees (billable vs. development time)
+  - Promotion pipeline flow (how long early-career employees wait for advancement)
+  - Performance review calibration meetings (consistency in ratings and feedback)
+  
+- **Communication Patterns:** 
+  - Frequency of manager-employee career conversations (tracked in HRIS notes)
+  - HR Business Partner touchpoints with early-career populations
+  - Exit interview scheduling and completion rates
+  
+- **Cultural Observations:** 
+  - Employee resource group participation rates by tenure
+  - Informal mentorship patterns (social network analysis if available)
+  - Team composition data (tenure diversity within teams)
 
 ## Access and Permissions
 
 ### Data Access Strategy
 #### Required Permissions
-- **Data Custodians:** [Who controls access to different data sources?]
-- **Approval Process:** [What approvals are needed?]
-- **Privacy Considerations:** [What privacy restrictions apply?]
-- **Confidentiality Requirements:** [What confidentiality agreements needed?]
+- **Data Custodians:** 
+  - HRIS Data: VP of People Operations and HRIS Manager
+  - Financial Data: CFO and HR Finance Manager  
+  - Survey Data: Director of Employee Experience
+  - Performance Data: VP of Talent Management
+  
+- **Approval Process:** 
+  - Submit formal data request form to HR leadership
+  - Sign data use agreement specifying confidentiality and use restrictions
+  - Obtain IRB-equivalent approval from HR Ethics Committee for any employee surveys
+  - De-identification protocol approval for any data shared externally
+  
+- **Privacy Considerations:** 
+  - All personal identifiers (names, employee IDs) to be removed or encrypted
+  - Aggregate data only for small groups (<10 employees) to prevent re-identification
+  - Comply with company data privacy policy and any applicable laws (GDPR if global employees)
+  
+- **Confidentiality Requirements:** 
+  - Sign NDA covering proprietary compensation data
+  - Limit sharing to project team and approved stakeholders only
+  - No external publication without explicit written approval
+  - Destroy or return data upon project completion
 
 #### Contact Plan
-1. **Primary Contact:** [Name, role, contact information]
-   - **Data Sources:** [What data they control]
-   - **Approach:** [How you'll request access]
-
-2. **Secondary Contact:** [Name, role, contact information]
-   - **Data Sources:** [What data they control]
-   - **Approach:** [How you'll request access]
+1. **Primary Contact:** Sarah Chen, VP of People Operations (sarah.chen@company.com)
+   - **Data Sources:** HRIS (Workday), turnover reports, organizational structure
+   - **Approach:** Email request with project overview and specific data needs, followed by 30-minute 
+   meeting to discuss access parameters
+   
+2. **Secondary Contact:** Michael Torres, Director of Compensation & Benefits (m.torres@company.com)
+   - **Data Sources:** Compensation data, market benchmarking, benefits utilization
+   - **Approach:** Referral from Sarah Chen, formal data request specifying aggregation level needed
+   
+3. **Tertiary Contact:** Jennifer Williams, Director of Employee Experience (jwilliams@company.com)
+   - **Data Sources:** Engagement survey results, exit interview database, pulse surveys
+   - **Approach:** Request access to filtered data (early-career cohort only), offer to analyze data 
+   on-site if needed for privacy
 
 ### Ethical Considerations
-- **Employee Privacy:** [How will you protect individual privacy?]
-- **Data Security:** [How will you secure sensitive data?]
-- **Use Limitations:** [How will you limit use of internal data?]
-- **Reporting Boundaries:** [What can/cannot be shared externally?]
+- **Employee Privacy:** De-identify all individual-level data; use employee cohorts (n≥10) for reporting;
+ no names or direct quotes without consent
+- **Data Security:** Store all data on encrypted, password-protected devices; use company-approved secure
+ file sharing; no personal devices
+- **Use Limitations:** Data used solely for retention improvement project; not for individual performance 
+decisions or disciplinary actions
+- **Reporting Boundaries:** Internal reports only share aggregate trends; external sharing (if any) 
+requires legal and HR approval; no compensation details shared outside project team
 
 ## Data Analysis Plan
 
 ### Baseline Establishment
 #### Pre-Problem Baselines
-[What did performance look like before the problem emerged?]
+- **Historical Turnover (2019-2021):** Establish pre-pandemic baseline early-career turnover rate
+- **Compensation Growth:** 3-year average annual increase rate before current retention issues emerged
+- **Engagement Scores:** 2019-2020 satisfaction scores as "healthy state" benchmark
 
 #### Normal Operating Ranges
-[What constitutes normal vs. abnormal performance?]
+- **Acceptable turnover:** 8-12% annual voluntary turnover for early-career employees (based on industry
+ benchmarks)
+- **Engagement threshold:** ≥3.8 out of 5.0 on satisfaction items indicates healthy engagement
+- **Compensation competitiveness:** 0.95-1.10 ratio to market median (within 10% of market)
 
 #### Benchmark Comparisons
-[How does performance compare to industry standards or internal targets?]
+- **External:** Compare to BLS JOLTS quits rate for professional/business services sector
+- **Internal:** Compare early-career turnover to company-wide turnover
+- **Industry:** Compare to tech industry benchmarks (SHRM, Radford, Mercer surveys)
+- **Peer companies:** Glassdoor ratings and published diversity reports from competitors
 
 ### Problem Evidence Analysis
 #### Problem Indicators
-[What data would confirm the problem exists?]
+- **Primary:** Early-career turnover rate >15% annually (above acceptable range)
+- **Secondary:** Satisfaction scores <3.5 among 0-3 year tenure employees
+- **Tertiary:** Compensation ratio <0.95 (below market) OR pay growth <3% annually
+- **Confirming:** Exit interview themes showing compensation/development as top reasons
 
 #### Problem Severity Measurement
-[How will you quantify the severity of the problem?]
+- **Financial Impact:** (# early-career departures) × (avg replacement cost) = Total cost
+- **Strategic Impact:** % of high-performer departures, critical role vacancies, knowledge loss
+- **Trend Severity:** Year-over-year increase in early-career turnover (accelerating problem)
 
 #### Root Cause Investigation
-[What data analysis might reveal underlying causes?]
+- **Correlation Analysis:** Turnover rate vs. compensation competitiveness ratio by department
+- **Cohort Analysis:** Survival curves showing at what tenure point employees are most likely to leave
+- **Text Analysis:** Exit interview theme coding for most frequent reasons
+- **Comparative Analysis:** Departments with high vs. low turnover - what differs in comp, manager 
+quality, development?
 
 ### Solution Feasibility Analysis
 #### Resource Assessment
-[What internal data shows resource availability for solutions?]
+- **Budget Availability:** Current comp budget headroom for market adjustments
+- **Cost of Inaction:** Annual loss from turnover vs. cost to close compensation gaps
+- **Investment Capacity:** Training budget available for manager development programs
+- **ROI Threshold:** If retention improves by X%, investment pays for itself in Y months
 
 #### Capability Assessment
-[What data shows organizational capability for change?]
+- **HRIS Capabilities:** Can Workday track and report on new metrics needed for monitoring?
+- **Manager Readiness:** What % of managers have completed training? Capacity for more training?
+- **HR Staffing:** Do we have dedicated resources to implement and sustain solutions?
+- **Program Infrastructure:** Do we have learning platforms, mentorship systems, career frameworks in place?
 
 #### Risk Assessment
-[What internal data reveals potential implementation risks?]
+- **Compensation Compression Risk:** Raising early-career pay without adjusting mid-career = equity issues
+- **Budget Sustainability:** Can we maintain higher comp/benefits long-term or only one-time fixes?
+- **Unintended Consequences:** Could enhanced benefits/development attract job-hoppers vs. loyal employees?
+- **Manager Resistance:** Will managers embrace new development responsibilities or see as burden?
 
 ## Documentation Strategy
 
 ### Data Collection Log
-[How will you track what data you collect and when?]
+- **Spreadsheet Tracker:** Date collected, data source, contact person, date range, sample size, 
+completeness (%, any gaps)
+- **Version Naming:** OrganizationalData_v1_2025-11-20.xlsx (version number + date)
+- **Notes Column:** Document any anomalies, missing data, or quality concerns flagged during collection
 
 ### Analysis Documentation
-[How will you document your analysis process and findings?]
+- **Analysis Scripts:** R or Python code for data cleaning, aggregation, statistical tests
+- **Assumptions Log:** Document all assumptions (e.g., "Regrettable turnover = top 2 performance ratings +
+ voluntary separation")
+- **Decision Log:** Record key analytical choices (e.g., "Excluded 2020 data due to pandemic anomaly")
+- **Visualization Library:** Save all charts/graphs with metadata (data source, date created, filters 
+applied)
 
 ### Quality Assurance
-[How will you ensure data accuracy and completeness?]
+- **Cross-Check:** Compare HRIS totals to payroll system for headcount validation
+- **Spot Check:** Manually review 10% random sample of records for data entry errors
+- **Reconciliation:** Monthly turnover totals should sum to annual total (check for double-counting)
+- **Peer Review:** Have second analyst review calculations and methodology
 
 ### Version Control
-[How will you manage different versions of data and analysis?]
+- **Git Repository:** Use version control for all analysis code
+- **Dated Snapshots:** Save data extracts with extraction date in filename
+- **Change Log:** Maintain document tracking all updates to datasets or analysis approach
+- **Final Version Freeze:** Lock final dataset and clearly label for reproducibility
 
 ## Expected Challenges
 
 ### Data Availability
-[What data might not be available or accessible?]
+- **Challenge:** Exit interview data incomplete - only 60-70% of departing employees complete them
+  - **Impact:** May miss important departure reasons from non-responders
+  - **Mitigation:** Supplement with manager exit notes; compare completers vs. non-completers for bias
+  
+- **Challenge:** Compensation data for external market may be outdated (annual survey cycle)
+  - **Impact:** Competitiveness ratios may not reflect real-time market
+  - **Mitigation:** Supplement with BLS ECI quarterly data and real-time Glassdoor salary data
 
 ### Data Quality Issues
-[What data quality problems might you encounter?]
+- **Challenge:** Performance ratings may have grade inflation or inconsistency across managers
+  - **Impact:** "Regrettable turnover" metric may be imprecise
+  - **Mitigation:** Use forced distribution guidelines if available; validate with manager survey
+  
+- **Challenge:** HRIS tenure calculation may not account for internal transfers correctly
+  - **Impact:** Employees who changed roles may be misclassified
+  - **Mitigation:** Manual review of complex cases; use "time in current level" vs. "total company tenure"
 
 ### Access Barriers
-[What obstacles might prevent data access?]
+- **Challenge:** Compensation data highly sensitive - may only get aggregated/masked data
+  - **Impact:** Cannot do individual-level regression analysis
+  - **Mitigation:** Work with role-level averages and cohorts; sufficient for most analyses
+  
+- **Challenge:** Legal/privacy review may delay data access by 2-4 weeks
+  - **Impact:** Project timeline compression
+  - **Mitigation:** Submit requests early; prepare detailed data use justification upfront
 
 ### Time Constraints
-[How might time limitations affect data collection?]
+- **Challenge:** Annual engagement survey only conducted once per year (already passed)
+  - **Impact:** No new satisfaction data until next cycle
+  - **Mitigation:** Use historical data; propose pulse surveys for more frequent monitoring
+  
+- **Challenge:** Data extraction from Workday requires IT support (3-5 day turnaround)
+  - **Impact:** Iterative analysis slowed by extraction delays
+  - **Mitigation:** Request comprehensive initial extraction; learn self-service reporting tools
 
 ## Backup Plans
+
+**If HRIS Access Denied:**
+- Use publicly available diversity/workforce reports (if company publishes them)
+- Survey managers directly for anonymous department-level turnover estimates
+- Leverage HR business partner knowledge through structured interviews
+
+**If Compensation Data Unavailable:**
+- Use external benchmarks (BLS, Glassdoor, Payscale) to estimate internal positioning
+- Focus analysis on engagement scores and exit interview themes rather than pay levels
+- Propose compensation audit as separate follow-up project
+
+**If Survey Data Insufficient:**
+- Conduct targeted pulse survey of current early-career employees (if budget allows)
+- Use Glassdoor reviews as proxy for employee sentiment
+- Structured interviews with retained vs. departed employees' managers for qualitative insights
+
+**If Timeline Too Short for Full Analysis:**
+- Prioritize descriptive statistics (turnover rates, averages) over complex modeling
+- Focus on 1-year snapshot rather than 3-year trends
+- Present preliminary findings with caveat about limitations; propose phase 2 deeper analysis
+
+---
+
+**Data Collection Target Timeline:** 3-4 weeks
+**Analysis Timeline:** 2-3 weeks  
+**Total Organizational Evidence Phase:** 5-7 weeks from start to final documentation
 
 ### Alternative Data Sources
 [What alternatives exist if primary sources aren't available?]
@@ -156,12 +419,5 @@
 [What substitute metrics could you use if ideal data isn't available?]
 
 ### Simplified Analysis
-[What's the minimum viable organizational evidence you need?]
-
----
-INSTRUCTIONS:
-1. Start with readily available data before pursuing hard-to-access information
-2. Be respectful of privacy and confidentiality when requesting internal data
-3. Focus on data most relevant to your specific problem and solution
-4. Document your data sources and analysis methods clearly
-5. Have backup plans for inaccessible data
+Focus on readily available data sources and maintain clear documentation of methods and sources.
+Used AI to help edit and strengthen my response, building out clearer ideas through improved research support and organization.

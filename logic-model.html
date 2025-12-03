@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Logic Model: Employee Compensation & Talent Retention</title>
+    <style>
+        body {
+            font-family: 'Inter', 'Segoe UI', sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(135deg, #f8f9fa 0%, #ecf0f1 100%);
+            color: #2c3e50;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 8px 30px rgba(0,0,0,0.15);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+
+        .header h1 {
+            margin: 0 0 10px 0;
+            font-size: 2.2em;
+            font-weight: 600;
+        }
+
+        .header p {
+            margin: 0;
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+
+        .logic-model {
+            padding: 40px;
+        }
+
+        .model-row {
+            display: flex;
+            margin-bottom: 30px;
+            gap: 20px;
+        }
+
+        .model-column {
+            flex: 1;
+            background: #f8f9fa;
+            border-radius: 8px;
+            padding: 20px;
+            border-left: 4px solid #3498db;
+            position: relative;
+        }
+
+        .model-column h3 {
+            margin: 0 0 15px 0;
+            color: #2c3e50;
+            font-size: 1.3em;
+            font-weight: 600;
+            text-align: center;
+            background: #3498db;
+            color: white;
+            padding: 10px;
+            border-radius: 6px;
+            margin: -20px -20px 20px -20px;
+        }
+
+        .model-column ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .model-column li {
+            padding: 8px 0;
+            border-bottom: 1px solid #ecf0f1;
+            position: relative;
+            padding-left: 20px;
+        }
+
+        .model-column li:before {
+            content: "•";
+            color: #3498db;
+            font-weight: bold;
+            position: absolute;
+            left: 0;
+        }
+
+        .model-column li:last-child {
+            border-bottom: none;
+        }
+
+        .inputs { border-left-color: #e74c3c; }
+        .inputs h3 { background: #e74c3c; }
+        .inputs li:before { color: #e74c3c; }
+
+        .activities { border-left-color: #f39c12; }
+        .activities h3 { background: #f39c12; }
+        .activities li:before { color: #f39c12; }
+
+        .outputs { border-left-color: #27ae60; }
+        .outputs h3 { background: #27ae60; }
+        .outputs li:before { color: #27ae60; }
+
+        .outcomes-short { border-left-color: #3498db; }
+        .outcomes-short h3 { background: #3498db; }
+        .outcomes-short li:before { color: #3498db; }
+
+        .outcomes-long { border-left-color: #9b59b6; }
+        .outcomes-long h3 { background: #9b59b6; }
+        .outcomes-long li:before { color: #9b59b6; }
+
+        .impact { border-left-color: #2c3e50; }
+        .impact h3 { background: #2c3e50; }
+        .impact li:before { color: #2c3e50; }
+
+        .arrow {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2em;
+            color: #7f8c8d;
+            margin: 0 10px;
+        }
+
+        .problem-statement {
+            background: #fff3cd;
+            border: 1px solid #ffeaa7;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 30px;
+        }
+
+        .problem-statement h3 {
+            margin: 0 0 10px 0;
+            color: #856404;
+        }
+
+        .assumptions {
+            background: #d1ecf1;
+            border: 1px solid #bee5eb;
+            border-radius: 8px;
+            padding: 20px;
+            margin-top: 30px;
+        }
+
+        .assumptions h3 {
+            margin: 0 0 15px 0;
+            color: #0c5460;
+        }
+
+        .external-factors {
+            background: #f8d7da;
+            border: 1px solid #f5c6cb;
+            border-radius: 8px;
+            padding: 20px;
+            margin-top: 20px;
+        }
+
+        .external-factors h3 {
+            margin: 0 0 15px 0;
+            color: #721c24;
+        }
+
+        @media (max-width: 1200px) {
+            .model-row {
+                flex-direction: column;
+            }
+            
+            .arrow {
+                transform: rotate(90deg);
+                margin: 10px 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Logic Model: Employee Compensation & Talent Retention</h1>
+            <p>Evidence-Based Management Approach to Early Career Professional Retention</p>
+        </div>
+
+        <div class="logic-model">
+            <div class="problem-statement">
+                <h3>Problem Statement</h3>
+                <p><strong>Current Challenge:</strong> Organizations struggle to retain high-performing early career professionals, leading to increased turnover costs, knowledge loss, and reduced competitive advantage. Traditional compensation packages may not align with what early career professionals value most.</p>
+            </div>
+
+            <div class="model-row">
+                <div class="model-column inputs">
+                    <h3>Inputs/Resources</h3>
+                    <ul>
+                        <li>HR budget for compensation analysis</li>
+                        <li>Employee survey data</li>
+                        <li>Scientific research literature</li>
+                        <li>Industry benchmarking data</li>
+                        <li>Exit interview feedback</li>
+                        <li>Management time and expertise</li>
+                        <li>Data analytics tools</li>
+                        <li>External consultants (if needed)</li>
+                        <li>Technology platforms</li>
+                    </ul>
+                </div>
+
+                <div class="arrow">→</div>
+
+                <div class="model-column activities">
+                    <h3>Activities</h3>
+                    <ul>
+                        <li>Conduct systematic literature review</li>
+                        <li>Survey early career employees</li>
+                        <li>Analyze current compensation packages</li>
+                        <li>Benchmark against industry standards</li>
+                        <li>Interview high-performing employees</li>
+                        <li>Analyze turnover data patterns</li>
+                        <li>Design evidence-based compensation model</li>
+                        <li>Pilot test new approaches</li>
+                        <li>Train managers on retention strategies</li>
+                    </ul>
+                </div>
+
+                <div class="arrow">→</div>
+
+                <div class="model-column outputs">
+                    <h3>Outputs</h3>
+                    <ul>
+                        <li>Comprehensive research report</li>
+                        <li>Evidence-based compensation framework</li>
+                        <li>Employee preference analysis</li>
+                        <li>Revised compensation packages</li>
+                        <li>Manager training materials</li>
+                        <li>Implementation guidelines</li>
+                        <li>Measurement dashboard</li>
+                        <li>Policy recommendations</li>
+                        <li>Best practices documentation</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="model-row">
+                <div class="model-column outcomes-short">
+                    <h3>Short-term Outcomes (0-12 months)</h3>
+                    <ul>
+                        <li>Increased employee satisfaction with compensation</li>
+                        <li>Improved understanding of employee preferences</li>
+                        <li>Enhanced manager capability in retention</li>
+                        <li>More competitive compensation packages</li>
+                        <li>Better alignment of rewards with values</li>
+                        <li>Reduced intention to leave</li>
+                        <li>Improved employee engagement scores</li>
+                        <li>Enhanced employer brand perception</li>
+                    </ul>
+                </div>
+
+                <div class="arrow">→</div>
+
+                <div class="model-column outcomes-long">
+                    <h3>Long-term Outcomes (1-3 years)</h3>
+                    <ul>
+                        <li>Reduced turnover rates</li>
+                        <li>Lower recruitment and training costs</li>
+                        <li>Improved talent retention</li>
+                        <li>Enhanced organizational knowledge retention</li>
+                        <li>Stronger pipeline of experienced professionals</li>
+                        <li>Increased productivity and performance</li>
+                        <li>Better succession planning</li>
+                        <li>Improved organizational culture</li>
+                    </ul>
+                </div>
+
+                <div class="arrow">→</div>
+
+                <div class="model-column impact">
+                    <h3>Ultimate Impact (3+ years)</h3>
+                    <ul>
+                        <li>Sustainable competitive advantage</li>
+                        <li>Organizational excellence and growth</li>
+                        <li>Industry leadership in talent management</li>
+                        <li>Improved financial performance</li>
+                        <li>Enhanced stakeholder value</li>
+                        <li>Reputation as employer of choice</li>
+                        <li>Innovation and market leadership</li>
+                        <li>Long-term organizational sustainability</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="assumptions">
+                <h3>Key Assumptions</h3>
+                <ul style="list-style: disc; padding-left: 20px;">
+                    <li>Early career professionals have different compensation preferences than experienced workers</li>
+                    <li>Evidence-based approaches will be more effective than intuition-based decisions</li>
+                    <li>Organizations have the capability to implement recommended changes</li>
+                    <li>Compensation is a significant factor in retention decisions</li>
+                    <li>Employees will provide honest feedback about their preferences</li>
+                    <li>Management will support evidence-based compensation changes</li>
+                    <li>Market conditions will remain relatively stable during implementation</li>
+                </ul>
+            </div>
+
+            <div class="external-factors">
+                <h3>External Factors (Outside Our Control)</h3>
+                <ul style="list-style: disc; padding-left: 20px;">
+                    <li>Economic conditions and market volatility</li>
+                    <li>Industry-wide talent shortages</li>
+                    <li>Competitor compensation strategies</li>
+                    <li>Generational workplace preference shifts</li>
+                    <li>Regulatory changes affecting compensation</li>
+                    <li>Technology disruption in the industry</li>
+                    <li>Geographic talent mobility trends</li>
+                    <li>Changes in employee expectations post-pandemic</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

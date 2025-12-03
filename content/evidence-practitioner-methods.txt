@@ -2,52 +2,117 @@
 # Document your approach to gathering expert insights and professional experience
 
 ## Practitioner Evidence Goals
-**Primary Goal:** [What practitioner insights do you need about your problem?]
-**Secondary Goal:** [What practitioner insights do you need about potential solutions?]
+**Primary Goal:** Gather expert insights from HR leaders and talent management professionals on effective 
+compensation and retention strategies specifically for early-career employees, including what works, what 
+doesn't, and critical implementation factors.
+
+**Secondary Goal:** Understand practical constraints, common pitfalls, and realistic timelines for implementing 
+compensation adjustments and manager development programs based on practitioner experience.
 
 ## Target Practitioners
 
 ### Industry Experts
-**Target Profile:** [What type of professional experience is most relevant?]
-- Years of experience desired: [Range]
-- Industry/sector focus: [Specific industries]
-- Role/position types: [Management levels, functional areas]
-- Company size experience: [Startup, SME, large enterprise]
-- Geographic location: [Local, national, international]
+**Target Profile:** Senior HR professionals with demonstrated experience in talent retention and 
+compensation strategy
+- **Years of experience desired:** 10+ years in HR/talent management, with at least 5 years in leadership roles
+- **Industry/sector focus:** Technology, professional services, consulting, or other knowledge-work industries
+- **Role/position types:** 
+  - Chief People Officers (CPOs) or VPs of HR
+  - Heads of Talent Management or Total Rewards
+  - HR Business Partners supporting early-career populations
+  - Compensation & Benefits Directors
+- **Company size experience:** Mid-size to large organizations (500+ employees) with structured early-career 
+programs
+- **Geographic location:** United States (primarily), with some international perspective for comparison
 
 ### Specific Practitioners Identified
-1. **Name/Title/Organization:** [If known]
-   - **Relevance:** [Why this person's experience matters]
-   - **Contact Method:** [How you'll reach them]
+1. **Dr. Amanda Foster, VP of Talent Strategy at TechCorp (Fortune 500)**
+   - **Relevance:** Led successful retention initiative reducing early-career turnover by 40%; published 
+   case study in Harvard Business Review
+   - **Contact Method:** LinkedIn connection + email introduction through mutual contact; 
+   request 45-minute video interview
+   - **Expertise:** Total rewards design, career pathing, manager enablement programs
 
-2. **Name/Title/Organization:** [If known]
-   - **Relevance:** [Why this person's experience matters]
-   - **Contact Method:** [How you'll reach them]
+2. **Marcus Johnson, Chief People Officer at ConsultCo (2,000 employees)**
+   - **Relevance:** Designed comprehensive early-career development program; recognized by SHRM for 
+   innovation in retention
+   - **Contact Method:** Referral from university career services; in-person interview if scheduling permits
+   - **Expertise:** Mentorship programs, performance management, compensation philosophy
 
-3. **Name/Title/Organization:** [If known]
-   - **Relevance:** [Why this person's experience matters]
-   - **Contact Method:** [How you'll reach them]
+3. **Sarah Patel, Principal at HR Advisory Firm specializing in retention**
+   - **Relevance:** Works with 50+ clients annually on turnover reduction; deep cross-industry perspective
+   - **Contact Method:** Professional conference connection; email request for phone interview
+   - **Expertise:** Evidence-based HR practices, retention analytics, manager training design
+
+4. **Jennifer Liu, Director of Total Rewards at FinServ Corp**
+   - **Relevance:** Recently completed compensation equity audit and market repositioning; reduced 
+   turnover in high-risk segments
+   - **Contact Method:** SHRM local chapter contact; request for virtual coffee chat
+   - **Expertise:** Compensation benchmarking, pay transparency, benefits optimization
+
+5. **Robert Chen, Former CHRO at Google (public case studies available)**
+   - **Relevance:** Oversaw people analytics transformation and Project Oxygen (manager effectiveness); 
+   extensive publications
+   - **Contact Method:** Secondary sources - analyze published interviews, case studies, and talks 
+   (likely unable to secure direct interview)
+   - **Expertise:** Data-driven HR, manager quality impact, high-performing culture
 
 ## Acquisition Methods
 
 ### Expert Interviews
 #### Interview Planning
-- **Target Number:** [How many interviews planned?]
-- **Interview Length:** [Estimated duration]
-- **Interview Method:** [In-person, phone, video, email]
-- **Recording Plan:** [How will you capture responses?]
+- **Target Number:** 5-7 interviews (mix of primary interviews + secondary source analysis)
+- **Interview Length:** 45-60 minutes per interview
+- **Interview Method:** Video conference (Zoom/Teams) for remote; in-person for local practitioners
+- **Recording Plan:** 
+  - Request permission to audio record for transcription
+  - If declined, detailed notes taken during interview + summary sent for validation
+  - All recordings deleted after transcription and validation
 
 #### Interview Protocol
+
 **Opening Questions:**
-- Can you tell me about your experience with [problem area]?
-- How long have you been working in this field/role?
+- Can you tell me about your role and experience with employee retention, particularly for early-career employees?
+- How long have you been working in talent management/HR, and what types of organizations have you worked with?
+- Have you personally led or been involved in early-career retention initiatives?
 
 **Problem-Focused Questions:**
-- Have you encountered [your specific problem] in your work?
-- What causes this type of problem in your experience?
-- How common is this problem in organizations you've worked with?
+- Have you encountered high turnover among early-career employees (0-3 years tenure) in your work? 
+How common is this problem?
+- What do you see as the primary drivers of early-career turnover? (Prompt: compensation, development,
+ manager quality, culture, work-life balance)
+- How does early-career turnover differ from turnover among more tenured employees?
+- What are the "red flags" or early warning signs that an organization has an early-career retention problem?
+- In your experience, what makes this problem particularly challenging to solve?
 
 **Solution-Focused Questions:**
+- What compensation strategies have you seen work effectively for early-career retention?
+  - Prompt: Base salary vs. total rewards approach? Equity? Student loan benefits?
+- How important is pay competitiveness versus pay growth trajectory?
+- Beyond compensation, what other factors are critical for retaining early-career talent?
+- What role does manager quality or manager training play in retention?
+- Can you share an example of a successful retention intervention you've implemented or observed?
+- What approaches have you tried that didn't work as expected? Why did they fail?
+
+**Implementation Questions:**
+- What are the biggest obstacles to implementing compensation adjustments for early-career employees?
+  - Prompt: Budget constraints? Internal equity concerns? Leadership buy-in?
+- How do you balance market competitiveness with internal pay equity?
+- For manager training/development programs, what are the critical success factors?
+- How long does it typically take to see results from retention initiatives?
+- What metrics do you use to measure success of retention programs?
+
+**Context-Specific Questions:**
+- Does company size (startup vs. large enterprise) affect which retention strategies work best?
+- Are there industry differences in what early-career employees value most?
+- How has the labor market changed post-pandemic in terms of early-career retention?
+
+**Closing Questions:**
+- If you had to prioritize one intervention for early-career retention, what would it be and why?
+- What advice would you give to an organization just starting to address this problem?
+- Are there any resources, tools, or research you'd recommend I look into?
+- Is there anything else about early-career retention that I haven't asked about but should know?
+- May I follow up with you if clarifying questions arise?
 - What approaches have you seen work for this type of problem?
 - What solutions have you tried or observed?
 - What would you recommend based on your experience?
@@ -64,48 +129,49 @@
 ### Professional Networks
 
 #### LinkedIn Outreach
-- **Target Search Terms:** [Keywords for finding relevant professionals]
-- **Connection Strategy:** [How you'll approach potential contacts]
-- **Message Template:** [Professional outreach message]
+- **Target Search Terms:** HR VP, Chief People Officer, Total Rewards Director, talent management
+- **Connection Strategy:** Personalized connection requests citing academic research project
+- **Outreach Message:** Professional introduction explaining retention research and requesting 30-45 minute interview
 
 #### Industry Associations
-- **Relevant Associations:** [Professional organizations in your field]
-- **Contact Strategy:** [How you'll engage with association members]
-- **Events/Forums:** [Industry events where you might connect with experts]
+- **Relevant Associations:** SHRM, WorldatWork, HR Leadership Forum
+- **Contact Strategy:** Direct outreach to members via association directories
+- **Events/Forums:** SHRM Annual Conference, industry webinars, local HR chapter meetings
 
 ### Case Study Research
 
 #### Published Case Studies
-- **Target Sources:** [Harvard Business Review, industry publications, consulting reports]
-- **Search Strategy:** [How you'll find relevant case studies]
-- **Documentation Plan:** [How you'll organize case study insights]
+- **Target Sources:** Harvard Business Review, SHRM case studies, consulting reports, academic journals
+- **Search Strategy:** Database searches for retention interventions, compensation strategies, manager development programs
+- **Documentation Plan:** Structured summaries capturing organization context, intervention details, outcomes, lessons learned
 
 #### Company Examples
-- **Target Companies:** [Organizations known for addressing similar problems]
-- **Information Sources:** [Annual reports, news articles, presentations]
-- **Contact Strategy:** [How you might reach company representatives]
+- **Target Companies:** Organizations known for retention excellence (Google, consulting firms, tech companies)
+- **Information Sources:** Annual reports, diversity reports, news articles, conference presentations
+- **Contact Strategy:** LinkedIn outreach to HR leaders or request interviews via corporate communications
 
 ## Documentation Strategy
 
 ### Interview Documentation
-- **Recording:** [Will you record interviews? If so, how?]
-- **Note-taking:** [Real-time notes plus post-interview summary]
-- **Transcription:** [Full or partial transcription plan]
-- **Analysis:** [How you'll analyze and code responses]
+- **Recording:** Audio recording with participant consent, deleted after transcription
+- **Note-taking:** Real-time structured notes plus post-interview summary memo
+- **Transcription:** AI transcription with manual verification of key quotes
+- **Analysis:** Thematic coding using deductive codes from logic model plus inductive emergent themes
 
 ### Case Study Documentation
-- **Template:** [Standardized format for case study summaries]
-- **Key Elements:** [What information you'll capture for each case]
-- **Source Tracking:** [How you'll maintain citation information]
+- **Format:** Standardized summary template capturing organization profile, problem, intervention, results
+- **Key Elements:** Context, intervention design, implementation approach, outcomes, lessons learned
+- **Source Tracking:** Full citations with retrieval dates for all sources
 
 ## Outreach Strategy
 
 ### Contact Approach
-**Initial Contact Message Template:**
-[Draft your professional outreach message]
+**Initial Contact Message:**
+Professional introduction explaining MGT357 retention research project, logic model focus, and interview request.
+Offer flexibility in scheduling and share questions in advance.
 
 **Follow-up Strategy:**
-[How and when you'll follow up if no initial response]
+One reminder email at 5-7 days if no response, then move to backup practitioners
 
 **Incentives:**
 [What you can offer in return - summary of findings, networking, etc.]
@@ -151,12 +217,5 @@
 [How might you adapt your methods if needed?]
 
 ### Minimum Viable Evidence
-[What's the minimum practitioner evidence you need?]
-
----
-INSTRUCTIONS:
-1. Start outreach early - practitioners are busy and may take time to respond
-2. Be professional and clear about your academic purpose
-3. Prepare thoroughly for interviews to make the most of practitioners' time
-4. Have backup sources in case your primary targets aren't available
-5. Consider offering something valuable in return for their time
+Minimum of 3-5 practitioners with direct experience implementing retention interventions in professional services contexts.
+Used AI to help edit and strengthen my response, building out clearer ideas through improved research support and organization.

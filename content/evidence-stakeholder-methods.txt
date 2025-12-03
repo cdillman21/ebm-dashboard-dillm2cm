@@ -2,73 +2,333 @@
 # Document your approach to gathering stakeholder perspectives and feedback
 
 ## Stakeholder Evidence Goals
-**Primary Goal:** [What stakeholder insights do you need about your problem?]
-**Secondary Goal:** [What stakeholder feedback do you need about potential solutions?]
+**Primary Goal:** Understand early-career employee perspectives on compensation satisfaction, career development opportunities, and manager effectiveness to identify specific retention drivers and pain points from those directly affected.
+
+**Secondary Goal:** Gather feedback from managers, HR partners, and senior leadership on feasibility, concerns, and support for proposed retention solutions (compensation adjustments, development programs, manager training).
 
 ## Target Stakeholder Groups
 
 ### Internal Stakeholders
 #### Management/Leadership
-- **Target Participants:** [Specific roles or levels]
-- **Engagement Method:** [Surveys, interviews, focus groups]
-- **Key Questions Focus:** [What you most need to learn from leadership]
-- **Expected Response Rate:** [Realistic participation estimate]
+- **Target Participants:** VP-level and above (C-suite, functional VPs), Department Heads managing early-career employees
+- **Sample Size Target:** 15-20 leaders
+- **Engagement Method:** One-on-one interviews (30 minutes) or small group discussions (5-6 leaders, 60 minutes)
+- **Key Questions Focus:** 
+  - What retention challenges do you see in your teams?
+  - What budget/resources are available for retention solutions?
+  - What concerns do you have about compensation adjustments or new programs?
+  - How would you measure success of retention initiatives?
+- **Expected Response Rate:** 75-85% (high priority topic, leadership invested)
 
-#### Employees/Staff
-- **Target Participants:** [Departments, roles, or demographic groups]
-- **Engagement Method:** [Surveys, interviews, focus groups]
-- **Key Questions Focus:** [What you most need to learn from employees]
-- **Expected Response Rate:** [Realistic participation estimate]
+#### Employees/Staff - Early-Career Cohort (PRIMARY STAKEHOLDER GROUP)
+- **Target Participants:** Employees with 0-3 years tenure in professional/technical roles
+- **Sample Size Target:** 100-150 survey responses, 15-20 interviews
+- **Engagement Method:** Anonymous online survey + voluntary follow-up interviews
+- **Key Questions Focus:** 
+  - What factors most influence your decision to stay or leave?
+  - How satisfied are you with your compensation package?
+  - Are you receiving adequate career development and feedback?
+  - How effective is your manager in supporting your growth?
+  - What would make you more likely to stay long-term?
+- **Expected Response Rate:** 40-50% for survey, 15-20% for interviews (offering incentive)
 
-#### Other Internal Groups
-[Additional internal stakeholder categories]
+#### Managers of Early-Career Employees
+- **Target Participants:** First-line and mid-level managers with direct reports in 0-3 year tenure range
+- **Sample Size Target:** 40-50 managers
+- **Engagement Method:** Online survey + focus groups (6-8 managers per session)
+- **Key Questions Focus:** 
+  - What challenges do you face in retaining your early-career team members?
+  - Do you have the tools/training to support career development conversations?
+  - What feedback do you receive from your team about compensation, growth opportunities?
+  - What support do you need to improve retention on your team?
+- **Expected Response Rate:** 60-70% (directly relevant to their job performance)
+
+#### HR Business Partners
+- **Target Participants:** HRBPs supporting departments with high early-career populations
+- **Sample Size Target:** 8-10 HRBPs
+- **Engagement Method:** Structured interviews (45 minutes each)
+- **Key Questions Focus:**
+  - What retention themes are you hearing from employees and managers?
+  - What solutions have worked or failed in your client groups?
+  - What organizational barriers exist to implementing retention programs?
+- **Expected Response Rate:** 90-100% (part of their role)
 
 ### External Stakeholders
-#### Customers/Clients
-- **Target Participants:** [Customer segments or types]
-- **Engagement Method:** [Surveys, interviews, feedback sessions]
-- **Key Questions Focus:** [What you most need to learn from customers]
-- **Expected Response Rate:** [Realistic participation estimate]
-
-#### Partners/Suppliers
-- **Target Participants:** [Types of business partners]
-- **Engagement Method:** [Interviews, surveys, informal discussions]
-- **Key Questions Focus:** [What you most need to learn from partners]
-- **Expected Response Rate:** [Realistic participation estimate]
+#### Recent Departures (Exit Cohort)
+- **Target Participants:** Employees who voluntarily left within last 12 months with 0-3 years tenure
+- **Sample Size Target:** 30-40 individuals
+- **Engagement Method:** Online exit survey (if not already completed) + optional follow-up call
+- **Key Questions Focus:** 
+  - What was the primary reason for your departure?
+  - What could the organization have done to retain you?
+  - How does your new role/compensation compare?
+  - Would you consider returning in the future?
+- **Expected Response Rate:** 25-35% (lower - no longer employed, less incentive)
 
 ## Data Collection Methods
 
 ### Survey Design
 #### Online Survey Platform
-- **Platform Choice:** [SurveyMonkey, Google Forms, Qualtrics, etc.]
-- **Survey Length:** [Estimated completion time]
-- **Question Types:** [Mix of multiple choice, rating scales, open-ended]
-- **Incentives:** [What you'll offer for participation]
+- **Platform Choice:** Qualtrics (enterprise license available through organization)
+- **Survey Length:** 10-15 minutes (25-30 questions total)
+- **Question Types:** 60% Likert scales (1-5), 30% multiple choice/ranking, 10% open-ended
+- **Incentives:** 
+  - Current employees: Entry into raffle for $200 gift cards (5 winners)
+  - Former employees: $25 gift card for completion
+  - Managers: No incentive needed (job-related)
 
 #### Key Survey Questions
-**Problem Assessment Questions:**
-- How frequently do you encounter [problem description]?
-- How significantly does this problem impact your work/experience?
-- What do you see as the main causes of this problem?
+**Problem Assessment Questions (Early-Career Employees):**
+- "How satisfied are you with your current total compensation package?" (1-5 scale)
+- "How clearly do you understand your career path and advancement opportunities?" (1-5 scale)
+- "My manager actively supports my professional development" (Strongly Disagree to Strongly Agree)
+- "In the past 6 months, have you seriously considered leaving the organization?" (Yes/No + reasons)
+- "What factors would most influence your decision to stay long-term?" (Rank top 3: compensation, growth, manager,
+ culture, work-life balance, mission, benefits)
 
-**Solution Feedback Questions:**
-- How would you rate the feasibility of [proposed solution]?
-- What concerns do you have about implementing this solution?
-- What would make this solution more effective?
+**Problem Assessment Questions (Managers):**
+- "What challenges do you face in retaining early-career employees on your team?" (Open-ended)
+- "How adequate are the tools and resources available to support team member development?" (1-5 scale)
+- "What percentage of your early-career employees have left voluntarily in the past 12 months?" (0%, <10%, 10-20%, 
+20-30%, >30%)
+
+**Solution Feedback Questions (All Stakeholders):**
+- "How important is competitive compensation for retaining early-career talent?" (Not important to Extremely 
+important)
+- "How feasible is implementing a formal mentorship program?" (Not feasible to Very feasible)
+- "What concerns do you have about compensation adjustments for early-career roles?" (Select all: budget, internal 
+equity, sustainability, fairness, other)
+- "If manager training on career development were offered, would you participate/support it?" (Definitely yes to
+ Definitely no)
 
 **Priority and Support Questions:**
-- How important is solving this problem compared to other priorities?
-- What level of support would you provide for this initiative?
-- What resources should be allocated to address this problem?
+- "Compared to other organizational priorities, how important is improving early-career retention?" (Not a priority
+ to Top priority)
+- "What level of resources should be allocated to retention initiatives?" (Minimal to Significant)
+- "I would actively support changes to improve early-career retention" (Strongly Disagree to Strongly Agree)
 
 ### Interview Protocol
 #### Interview Structure
-- **Duration:** [Target length for each interview]
-- **Format:** [In-person, phone, video conference]
-- **Recording:** [Will interviews be recorded? How?]
-- **Note-taking:** [How will you capture responses]
+- **Duration:** 30-45 minutes per interview
+- **Format:** Video conference (Zoom/Teams) with option for phone if preferred
+- **Recording:** Audio recording with participant consent; deleted after transcription
+- **Note-taking:** Real-time notes in structured template + AI transcription for backup
 
 #### Interview Questions
+
+**Opening (All Stakeholders):**
+- Can you describe your role and how you interact with early-career employees?
+- How long have you been in your current position?
+
+**For Early-Career Employees:**
+- What attracted you to join this organization initially?
+- How has your experience here matched (or not matched) your expectations?
+- Can you describe your relationship with your manager and how they support your growth?
+- What would make you more likely to see yourself here in 3-5 years?
+- If you were to leave, what would be the primary reason?
+- What advice would you give leadership about retaining people at your career stage?
+
+**For Managers:**
+- What trends have you noticed in early-career employee retention on your team?
+- What makes retention challenging for this population specifically?
+- How confident do you feel in your ability to develop and retain early-career talent?
+- What support or resources would help you be more effective in retention?
+- Have you seen any retention strategies work well? Any that failed?
+
+**For HR Business Partners:**
+- What themes emerge from exit interviews with early-career employees?
+- How does early-career retention vary across different departments?
+- What organizational barriers exist to improving retention?
+- What solutions have been tried before, and what were the results?
+
+**For Senior Leadership:**
+- How does early-career turnover impact your strategic objectives?
+- What trade-offs would you be willing to make to improve retention?
+- What concerns do you have about proposed solutions (comp adjustments, training programs)?
+- How should we measure ROI on retention investments?
+
+### Focus Group Protocol
+#### Structure
+- **Group Size:** 6-8 participants per session
+- **Duration:** 90 minutes
+- **Number of Sessions:** 3-4 (segmented by stakeholder group: early-career employees, frontline managers,
+ mid-level leaders, mixed)
+- **Facilitation:** External facilitator for candor; HR observer for notes only
+
+#### Discussion Guide
+**Topic 1: Problem Definition (20 minutes)**
+- "In your experience, is early-career retention a problem here? Why or why not?"
+- "What makes early-career employees leave versus stay?"
+- Group exercise: Prioritize retention factors on sticky notes
+
+**Topic 2: Current State Analysis (25 minutes)**
+- "What does the organization currently do well for early-career development?"
+- "Where are the gaps or missed opportunities?"
+- "How does manager quality vary, and what's the impact?"
+
+**Topic 3: Solution Brainstorming (30 minutes)**
+- "If you could change one thing to improve retention, what would it be?"
+- "React to these potential solutions: [present 3-4 evidence-based options]"
+- "What would make these solutions work (or fail) in our context?"
+
+**Topic 4: Implementation Realities (15 minutes)**
+- "What obstacles would we face in implementing changes?"
+- "Who needs to be involved for success?"
+- "What timeline is realistic?"
+
+## Access Strategy
+
+### Internal Permissions
+**Approvals Needed:**
+1. CHRO approval for employee surveys and manager interviews
+2. Legal review of survey questions (privacy/compliance)
+3. Department head approval for focus group participation during work hours
+4. Communications team approval for survey invitation messaging
+
+**Timeline for Approvals:** 2-3 weeks advance notice
+
+### Recruitment Strategy
+
+**For Surveys:**
+- Email invitation from CHRO with project explanation
+- Follow-up reminders at Day 5 and Day 10
+- Anonymous link (no tracking of who responded)
+- 2-week response window
+
+**For Interviews:**
+- Solicitation email with volunteer sign-up link
+- Purposive sampling to ensure diversity (department, tenure, performance level, demographics)
+- Confirmation email with calendar invite and consent form
+
+**For Focus Groups:**
+- Manager nominates willing participants OR open call for volunteers
+- Ensure mix of high performers, solid contributors, varied tenures (0-3 years)
+- Schedule during work hours to show organizational commitment
+
+### Engagement Safeguards
+**Confidentiality:**
+- Survey responses anonymous (no IP tracking)
+- Interview quotes attributed only by role type (e.g., "Early-career employee in Engineering")
+- Focus group participants sign confidentiality agreement
+- No individual data shared with managers or leadership - only aggregated themes
+
+**Informed Consent:**
+- Clear explanation of project purpose: "To improve early-career retention through evidence-based solutions"
+- Voluntary participation emphasized
+- Right to skip questions or withdraw
+- Data use: Internal analysis only, findings shared in aggregate
+
+**Follow-up Communication:**
+- Share high-level findings with all participants within 30 days
+- "You said, we heard" summary document
+- Transparency about which recommendations will be pursued and why
+
+## Timeline and Logistics
+
+### Data Collection Schedule
+- **Survey Launch:** Week 1 Monday (kick-off email from leadership)
+- **Survey Close:** Week 3 Friday (2-week window)
+- **Interview Period:** Weeks 2-5 (concurrent with survey, extends slightly beyond)
+- **Focus Group Dates:** Weeks 4-6 (after initial survey data reviewed to inform discussions)
+
+### Participation Targets
+- **Early-Career Employee Survey:** Target 100 responses (50% of 0-3 year population)
+- **Manager Survey:** Target 40 responses (80% of managers with early-career reports)
+- **Interviews:** 15-20 total (8-10 early-career, 4-5 managers, 3-4 HR/leaders)
+- **Focus Groups:** 25-30 total participants across 3-4 sessions
+
+### Response Rate Contingency Plans
+**If early-career survey response <30% by Day 10:**
+- Manager encouragement (without pressure) in team meetings
+- Extend deadline by 3 days
+- Add lunch-and-learn incentive (pizza lunch for teams with >60% participation)
+
+**If interview volunteers insufficient:**
+- Expand eligibility criteria (include 4-year tenure employees)
+- Offer flexible scheduling (early morning, evening options)
+- Increase incentive (add recognition/LinkedIn recommendation from CHRO)
+
+### Alternative Methods
+**If survey fatigue is high:**
+- Shorten survey to 5-7 critical questions only
+- Add pulse survey approach (2-3 questions monthly over 3 months)
+
+**If formal interviews are challenging:**
+- Conduct informal coffee chats (15-20 minutes, less formal)
+- Leverage existing one-on-one meeting time with HR BP facilitation
+
+## Ethical Considerations
+
+### Informed Consent
+- **Purpose Explanation:** "We're studying early-career retention to design evidence-based solutions. Your input
+ will shape compensation, development, and manager training initiatives."
+- **Participation Voluntariness:** "Participation is completely voluntary. Choosing not to participate will not 
+affect your employment, performance reviews, or opportunities in any way."
+- **Data Use:** "Responses will be aggregated and analyzed by the HR Strategy team. No individual responses will 
+be shared with your manager or leadership. Findings will inform organizational retention programs."
+- **Anonymity/Confidentiality:** 
+  - Surveys: Fully anonymous
+  - Interviews: Confidential (names known to researcher but quotes de-identified in reports)
+  - Focus groups: Confidential within group (participants agree not to share others' comments)
+
+### Organizational Permissions
+- **Supervisor Approval:** Not required for survey participation (voluntary during personal time or work time)
+- **HR Consultation:** HR leadership is project sponsor - full coordination throughout
+- **Ethics Review:** Submit to internal review board (or equivalent) for approval before launch
+- **Union Notification:** If applicable, notify union representatives and offer to include union perspective in 
+interviews
+
+### Participant Protections
+- **No Retaliation:** Explicit statement that candid feedback (even negative) will not result in negative 
+consequences
+- **Data Security:** Survey data stored on encrypted, password-protected servers; interview recordings deleted
+ after transcription
+- **Reporting Safeguards:** Minimum cell size of n=10 for any subgroup reporting (e.g., won't report "Sales team 
+satisfaction" if only 8 sales employees)
+
+## Data Management Plan
+
+### Data Collection Organization
+- **Response Tracking:** Qualtrics tracks completion rate (not individual identities); Interview schedule 
+spreadsheet tracks confirmed/completed
+- **Data Storage:** 
+  - Survey data: Qualtrics secure server, exported to password-protected Excel
+  - Interview recordings: Encrypted cloud storage (Box), access limited to research team
+  - Transcripts: De-identified and stored separately from audio
+- **Data Security:** Two-factor authentication, role-based access control, automatic backup daily
+- **Backup Plan:** Weekly exports to secure local drive; redundant cloud storage
+
+### Analysis Preparation
+- **Coding Strategy:** 
+  - Open-ended survey responses: Thematic coding using NVivo or manual Excel coding
+  - Interview transcripts: Deductive coding based on logic model (X, M, Y factors) + inductive emergent themes
+  - Code book developed after reviewing 20% of data, refined iteratively
+  
+- **Quantitative Analysis:** 
+  - Descriptive statistics (means, frequencies, distributions) for all Likert scales
+  - Cross-tabulations by tenure, department, performance level
+  - Correlation analysis (satisfaction metrics vs. retention intent)
+  - Statistical significance testing where sample size permits (t-tests, chi-square)
+  
+- **Integration Plan:** 
+  - Triangulate survey quantitative results with qualitative interview themes
+  - Use focus group discussions to validate/refine survey findings
+  - Create evidence matrix mapping themes across methods (survey + interviews + focus groups)
+  - Weight evidence by source credibility and consistency
+
+### Analysis Timeline
+- **Week 4-5:** Preliminary survey data analysis (descriptive stats, frequency distributions)
+- **Week 6-7:** Interview transcription and initial coding
+- **Week 7-8:** Focus group data synthesis
+- **Week 8-9:** Integrated analysis and evidence synthesis
+- **Week 10:** Stakeholder report and recommendations development
+
+---
+
+**Total Stakeholder Evidence Collection Timeline:** 10 weeks from launch to final analysis  
+**Key Success Factor:** Executive sponsorship and transparent communication throughout process  
+**Primary Risk:** Survey fatigue and low response rates - mitigated through multiple engagement methods and 
+incentives
 **Opening Questions:**
 - Tell me about your role and how this problem affects you
 - How long have you been aware of this issue?
@@ -102,27 +362,29 @@
 [List specific individuals or groups you'll target]
 
 #### Sampling Approach
-- **Total Target Sample:** [Number of stakeholders to engage]
-- **Sampling Method:** [Random, purposive, convenience, stratified]
-- **Representation Goals:** [What diversity of perspectives you want]
+- **Total Target Sample:** 180-220 total stakeholders across all methods
+- **Sampling Method:** Stratified sampling by stakeholder group and tenure
+- **Representation Goals:** Diverse perspectives across early-career employees, managers, leadership, and former employees
 
 ### Recruitment Strategy
 #### Outreach Method
-**Email Invitation Template:**
-[Draft your stakeholder outreach message]
+**Email Invitation:**
+CHRO-sponsored email invitation explaining retention research project and requesting participation.
+Emphasize confidentiality and organizational improvement goals.
 
 **Follow-up Strategy:**
-[How and when you'll follow up with non-responders]
+Reminder emails at Day 5 and Day 10 for surveys.
+Direct manager encouragement (without pressure) for interviews.
 
 **Gatekeepers:**
-[Who might help you reach stakeholders or whose permission you need]
+CHRO approval, department head support, communications team for messaging
 
 ## Ethical Considerations
 
 ### Informed Consent
-- **Purpose Explanation:** [How you'll explain the research purpose]
-- **Participation Voluntariness:** [Making clear that participation is optional]
-- **Data Use:** [How you'll explain how their input will be used]
+- **Purpose Explanation:** Studying early-career retention to design evidence-based solutions
+- **Participation Voluntariness:** Completely voluntary with no employment impact
+- **Data Use:** Aggregated analysis only, no individual responses shared with managers
 - **Anonymity/Confidentiality:** [What privacy protections you'll provide]
 
 ### Organizational Permissions
@@ -179,13 +441,6 @@
 
 ### Analysis Preparation
 - **Coding Strategy:** [How you'll analyze open-ended responses]
-- **Quantitative Analysis:** [How you'll analyze survey data]
-- **Integration Plan:** [How you'll combine different types of stakeholder evidence]
-
----
-INSTRUCTIONS:
-1. Start stakeholder engagement early - it often takes longer than expected
-2. Be respectful of stakeholder time and provide clear value for participation  
-3. Get appropriate permissions before engaging organizational stakeholders
-4. Plan for lower response rates than you hope for
-5. Have multiple methods to reach different types of stakeholders
+- **Quantitative Analysis:** Descriptive statistics, cross-tabulations, correlation analysis
+- **Integration Plan:** Triangulate survey results with interview themes and focus group discussionss
+Used AI to help edit and strengthen my response, building out clearer ideas through improved research support and organization.
