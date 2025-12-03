@@ -1,53 +1,51 @@
-# Stakeholder Evidence: Feedback & Perspectives
-# Document stakeholder input gathered through external benchmark surveys and industry research
+# Stakeholder Evidence: What Employees & Managers Actually Think
+# Using big survey data to understand stakeholder perspectives
 
-## Evidence Collection Summary
-**Data Sources:** External benchmark surveys from authoritative organizations (Gallup, Conference Board, SHRM)
-**Population Represented:** 140+ countries, 30+ million employees globally for Gallup; U.S. workforce for domestic 
-sources
-**Time Period:** 2023-2025 data
-**Methods Used:** Large-scale employee engagement surveys, workforce analytics, compensation studies
+## Where This Data Comes From
+**Data Sources:** Major benchmark surveys (Gallup, Conference Board, SHRM - the big names in workplace research)
+**Who's Represented:** Millions of employees globally (Gallup surveys 140+ countries), plus U.S.-specific data
+**Time Period:** 2023-2025 (recent stuff)
+**How They Got It:** Large-scale employee surveys, workforce analytics, compensation studies
 
-**Rationale for External Surveys:** 
-This stakeholder evidence leverages external benchmark data from highly credible sources (Gallup, Conference Board,
- SHRM) to represent the perspectives of employees, managers, and organizational leaders on compensation, engagement,
-  and retention issues. These surveys represent millions of stakeholder voices globally and provide authoritative
-   validation of the retention challenges and solution directions identified in our logic model (X: Compensation → 
-   M: Satisfaction & Manager Quality → Y: Retention). External benchmarks complement planned internal stakeholder 
-   engagement by establishing that our retention challenges align with broader workforce trends.
+**Why I'm Using External Surveys:** 
+Since I don't work at a company yet, I can't survey internal stakeholders. But these external benchmarks are actually 
+really valuable - they represent millions of employee, manager, and organizational leader voices on compensation, 
+engagement, and retention. The data from Gallup, Conference Board, and SHRM validates that the retention problems I'm 
+seeing in research (my X → M → Y model) are real issues that actual stakeholders care about. It's like getting the 
+voice of millions of stakeholders instead of just a few.
 
----
+## Big Survey #1: Gallup's State of the Global Workplace 2025
 
-## External Benchmark Survey 1: Gallup State of Global Workplace 2025
-
-### Survey Methodology
-- **Organization:** Gallup, Inc. (global analytics and advisory firm)
+### About This Survey
+- **Who Did It:** Gallup (major analytics company - you've probably heard of them)
 - **Survey Name:** State of the Global Workplace Report
-- **Data Collection Period:** Continuous tracking through 2024, reported 2025
-- **Sample Size:** 140+ countries represented
-- **Population:** Global workforce including employees, managers, and leaders across industries
-- **Methodology:** Gallup's Q12 employee engagement survey + wellbeing assessments
-- **Citation:** Gallup. (2025). *State of the Global Workplace: 2025 Report*. Gallup Press.
+- **When:** Continuous tracking through 2024, published 2025
+- **Sample Size:** 140+ countries (seriously global)
+- **Who They Asked:** Employees, managers, leaders across all types of companies
+- **How:** Their famous Q12 employee engagement survey plus wellbeing questions
+- **Source:** Gallup. (2025). *State of the Global Workplace: 2025 Report*. Gallup Press.
  https://www.gallup.com/workplace/349484/state-of-the-global-workplace.aspx
 
-### Key Findings Relevant to Retention Problem
+### What The Data Shows About Retention (My Y Variable)
 
-#### Employee Engagement Crisis (Y Variable: Retention)
-- **Global Employee Engagement:** 21% in 2024 (declined 2 percentage points from previous year)
-- **Employee Wellbeing (Thriving):** 33% report thriving (down from 35% peak in 2022)
-- **Disengagement Impact:** $438 billion in lost productivity globally due to low engagement
-- **Stakeholder Implication:** Only 1 in 5 employees globally are engaged, creating massive retention vulnerability.
- Low engagement is a leading indicator of turnover intent.
+#### The Engagement Crisis
+- **Only 21% of global employees are engaged** in 2024 (down 2% from last year - getting worse!)
+- **Only 33% say they're "thriving"** at work (down from 35% in 2022)
+- **Cost of disengagement:** $438 billion in lost productivity globally (insane!)
+- **What this means:** Only 1 in 5 employees is actually engaged, which is a huge retention red flag. When people 
+aren't engaged, they start looking for new jobs.
 
-**Direct Quote from Report:**
+**Quote from the actual report:**
 > "The percentage of engaged employees globally fell two points to 21% in 2024, while the percentage actively 
 disengaged remained at 15%."
 
-#### Manager Quality Impact (M Variable: Manager Training/Quality)
-- **Manager Engagement:** 27% of managers engaged (down from 30% in previous measurement)
-- **Young Manager Decline:** Young managers experienced the largest engagement declines
-- **Manager Attribution:** "Seventy percent of team engagement is attributable to the manager"
-- **Stakeholder Implication:** Manager quality is THE critical mediator for employee retention. Even a 3-point
+#### Why Managers Matter So Much (My M Variable!)
+- **Only 27% of managers are engaged** (down from 30% - even managers are struggling!)
+- Young managers (the ones who'd be managing people like me) had the **biggest drops in engagement**
+- Here's the key stat: **"Seventy percent of team engagement is attributable to the manager"** (so managers are 
+REALLY important!)
+- **What this means:** Manager quality is THE critical link for keeping employees. If my manager sucks, I'm probably 
+leaving no matter how much I get paid.
  decline in manager engagement translates to significant team-level disengagement.
 
 **Direct Quote from Report:**

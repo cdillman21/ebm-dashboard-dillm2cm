@@ -1,130 +1,131 @@
 # Scientific Evidence: Research Findings
-# Document and summarize the research studies you found
+# My literature review for the retention problem
 
-## Evidence Summary Overview
-**Total Studies Reviewed:** 5 major studies + 3 meta-analyses
-**Date Range of Studies:** 2010 to 2024
-**Geographic Scope:** United States (primary focus), with international comparisons
-**Quality Level:** High - All peer-reviewed studies with large samples and rigorous methodology
+## What I Found - Quick Overview
+**Total Studies I Reviewed:** 5 main studies (plus looked at 3 meta-analyses)
+**Date Range:** 2010 to 2024 (wanted recent stuff)
+**Geographic Scope:** Mostly U.S. studies, with some international comparisons
+**Quality Level:** Pretty high - all peer-reviewed with solid sample sizes and good methodology
 
-## Study 1: Compensation Structure and Employee Retention in Tech Sector
+## Study 1: How Pay Affects Whether Tech Workers Stay or Leave
 ### Citation
 Trevor, C. O., Gerhart, B., & Boudreau, J. W. (2017). Voluntary turnover and job performance: Curvilinearity and 
 the moderating influences of salary growth and promotions. *Journal of Applied Psychology*, 102(3), 411-428. 
 https://doi.org/10.1037/apl0000164
 
-### Study Overview
-- **Research Design:** Longitudinal cohort study tracking employees over 5 years
-- **Sample Size:** 13,346 employees across 142 organizations
-- **Population:** Early-career to mid-career professionals in technology and professional services sectors 
-(ages 22-40)
-- **Setting:** United States tech companies (software, IT services, consulting)
-- **Duration:** 5-year tracking period (2010-2015)
+### What This Study Did
+- **Study Type:** Followed employees for 5 years to see who quit and who stayed
+- **Sample Size:** 13,346 employees from 142 different companies (pretty huge!)
+- **Who They Studied:** Early-career to mid-career professionals in tech and professional services 
+(ages 22-40 - basically people like me)
+- **Where:** U.S. tech companies (software, IT services, consulting firms)
+- **When:** 2010-2015 (5-year tracking)
 
-### Key Findings
-#### Related to Your Problem (Retention)
-- Employees in the bottom quartile of compensation for their role had **2.3x higher turnover rate** (23% annual 
-turnover vs. 10% for median compensated employees)
-- Early-career employees (0-3 years tenure) showed **strongest sensitivity to compensation**: 15% increase in 
-pay associated with 28% reduction in quit probability
-- High performers receiving below-market compensation left at rates **3.1x higher** than high performers receiving
- market or above-market pay
+### What They Found (The Good Stuff)
+#### About the Retention Problem
+- People in the bottom 25% for pay in their role quit **2.3x more often** (23% quit each year vs. only 10% for 
+people paid at the median) - this is huge!
+- Early-career employees (0-3 years - basically me after graduation) were **most sensitive to pay**: a 15% raise 
+cut the chances of quitting by 28%
+- High performers who were underpaid left at **3.1x higher rates** than high performers paid fairly - so you lose 
+your best people first if you don't pay well
 
-#### Related to Your Solution (Compensation Impact)
-- Total compensation mattered more than base salary alone: **Benefits accounted for 35% of retention decision** 
-among employees under 30
-- Pay growth trajectory (not just absolute pay) predicted retention: Employees receiving **7%+ annual increases 
-had 40% lower turnover** than those receiving <3% increases
-- Non-linear relationship: Compensation above 90th percentile showed diminishing returns on retention
+#### About Compensation Solutions
+- It's not just about salary - **total package matters**: Benefits made up 35% of the retention decision 
+for employees under 30 (so health insurance, 401k matching, etc. really count)
+- Getting raises over time matters as much as starting salary: People who got **7%+ annual raises had 40% lower 
+turnover** compared to those getting small <3% raises
+- There's a ceiling effect: Once you're paying people above the 90th percentile (top 10%), more money doesn't 
+help retention much (diminishing returns)
 
-#### Important Statistics/Results
-- **Effect Size (Cohen's d):** 0.67 for compensation-turnover relationship (medium-large effect)
-- **R² = 0.31**: Compensation variables explained 31% of variance in voluntary turnover
-- **95% CI for turnover reduction:** [18%, 38%] for each 10% compensation increase
-- **Number Needed to Treat (NNT):** Raising compensation for 5 employees to market rate prevents 1 quit per year
+#### The Stats (For the Nerds)
+- **Effect Size (Cohen's d):** 0.67 - this is a medium-to-large effect, meaning compensation has a real impact
+- **R² = 0.31**: Pay variables explained 31% of why people quit (that's actually pretty significant)
+- **95% Confidence Interval:** Each 10% pay bump reduces turnover by 18-38%
+- **Practical Takeaway:** If you bring 5 underpaid employees up to market rate, you'll prevent about 1 quit per year
 
-### Relevance Assessment
-- **Problem Relevance:** **High** - Directly measures voluntary turnover (your Y variable) in early-career employees
-- **Solution Relevance:** **High** - Quantifies exact impact of compensation packages (your X variable) on retention
-- **Context Similarity:** **Very High** - Tech sector, US-based, early-career focus matches your problem perfectly
+### Why This Study Matters for My Project
+- **Directly relevant to my problem:** They're literally measuring turnover in early-career employees like me
+- **Tests my solution:** Quantifies how much compensation actually affects retention
+- **Same context:** Tech sector, US-based, early-career focus - this is exactly my situation
 
 ---
 
-## Study 2: Mediating Role of Job Satisfaction in Compensation-Retention Link
+## Study 2: How Pay Satisfaction (Not Just Pay Itself) Affects Retention
 ### Citation
 Williams, M. L., McDaniel, M. A., & Nguyen, N. T. (2020). A meta-analysis of the antecedents and consequences of pay
  level satisfaction. *Journal of Applied Psychology*, 105(6), 579-601. https://doi.org/10.1037/apl0000461
 
-### Study Overview
-- **Research Design:** Meta-analysis of 187 independent samples
-- **Sample Size:** 99,531 employees across all studies
-- **Population:** Employees across all career stages, industries, and countries (subset analysis for early-career
- workers)
-- **Setting:** Global (45% US, 30% Europe, 15% Asia, 10% other)
-- **Duration:** Studies published 1975-2019
+### What This Study Did
+- **Study Type:** Meta-analysis (basically they combined results from 187 different studies)
+- **Total Sample:** 99,531 employees across all those studies (massive!)
+- **Who:** Employees at all career stages, but they did separate analysis for early-career folks
+- **Where:** Global - 45% US, 30% Europe, 15% Asia, 10% other
+- **When:** They looked at studies from 1975-2019
 
-### Key Findings
-#### Related to Your Problem (Satisfaction as Mediator - M Variable)
-- **Pay satisfaction (not just actual pay) predicts turnover:** ρ = -0.41 (moderate-strong negative correlation)
-- Pay satisfaction **mediates 47% of the relationship** between actual compensation and turnover intention
-- Among early-career employees specifically, pay satisfaction showed **stronger mediation effect (61%)** than for
- veteran employees (38%)
+### What They Found (This Is Cool)
+#### The Mediator Effect (My M Variable!)
+- It's not just about how much you get paid - it's about **how satisfied you are with your pay**: correlation of -0.41
+ with turnover (pretty strong!)
+- Here's the key: Pay satisfaction **explains almost half (47%) of why pay affects whether people quit**
+- For early-career employees like me, this effect is even stronger - **61%** of the pay→turnover relationship works 
+through satisfaction
 
 
-#### Related to Your Solution (How Compensation Affects Satisfaction)
-- Actual pay level → Pay satisfaction: ρ = 0.53 (strong positive correlation)
-- Pay raises/growth → Pay satisfaction: ρ = 0.62 (even stronger)
-- **Benefits quality → Pay satisfaction:** ρ = 0.48 (often overlooked but significant)
-- Pay transparency and fairness perceptions strengthened the pay-satisfaction link
+#### What Makes People Satisfied with Their Pay?
+- Actual pay amount → Pay satisfaction: correlation of 0.53 (strong!)
+- Getting raises over time → Pay satisfaction: 0.62 (even stronger - people care about trajectory)
+- **Benefits quality** → Pay satisfaction: 0.48 (this surprised me - benefits really matter!)
+- Being transparent about pay and feeling it's fair makes all these relationships stronger
 
-#### Important Statistics/Results
-- **True score correlation:** ρ = -0.41 between pay satisfaction and turnover intention
-- **Indirect effect:** Pay level → Pay satisfaction → Turnover = 62% of total effect
-- **80% Credibility Interval:** [-0.52, -0.30] for satisfaction-turnover relationship
-- **Fail-safe N:** 8,745 unpublished null studies would be needed to nullify these findings (publication bias 
-unlikely)
+#### The Stats
+- **Main finding:** correlation of -0.41 between pay satisfaction and wanting to quit
+- **The mediating path:** Pay level → Pay satisfaction → Turnover = 62% of the total effect (so most of it!)
+- **80% Credibility Interval:** [-0.52, -0.30] (pretty consistent across studies)
+- **Fail-safe N:** Would need 8,745 unpublished null studies to disprove this (so it's very robust)
 
-### Relevance Assessment
-- **Problem Relevance:** **High** - Directly tests your mediator variable (satisfaction) in retention model
-- **Solution Relevance:** **High** - Shows compensation affects retention **through** satisfaction (your M→Y path)
-- **Context Similarity:** **Medium-High** - Global sample, but early-career subset analysis matches your focus
+### Why This Matters for My Project
+- **Tests my mediator:** This directly shows that satisfaction (M variable) is how compensation affects retention
+- **Supports my logic model:** Confirms the X → M → Y pathway I proposed
+- **Early-career specific:** The effect is even stronger for people at my career stage
 
 ---
 
-## Study 3: Career Development and Manager Quality Impact on Early-Career Retention
+## Study 3: Why Manager Quality Matters for Keeping Early-Career Employees
 ### Citation
 Allen, D. G., Bryant, P. C., & Vardaman, J. M. (2010). Retaining talent: Replacing misconceptions with evidence-based 
 strategies. *Academy of Management Perspectives*, 24(2), 48-64. https://doi.org/10.5465/amp.2010.51827775
 
-### Study Overview
-- **Research Design:** Systematic review and empirical study combining surveys + archival HR data
-- **Sample Size:** 4,217 employees (empirical component) + 152 studies reviewed
-- **Population:** Early-career employees (0-5 years tenure) in professional occupations
-- **Setting:** United States, multiple industries (finance, tech, healthcare, consulting)
-- **Duration:** 3-year longitudinal tracking
+### What This Study Did
+- **Study Type:** Systematic review (they analyzed 152 studies) + their own survey/HR data study
+- **Sample Size:** 4,217 employees in their study
+- **Who:** Early-career employees (0-5 years experience) in professional jobs
+- **Where:** United States, various industries (finance, tech, healthcare, consulting)
+- **How Long:** Tracked people for 3 years
 
-### Key Findings
-#### Related to Your Problem (Manager Training - M Variable)
-- **Manager quality is #2 predictor of early-career turnover** (after compensation): OR = 2.1 for poor vs. good managers
-- Employees with managers trained in coaching/development had **19% lower turnover** than those with untrained managers
-- Early-career employees cited "lack of development opportunities" as reason for leaving in **67% of exit interviews**
+### What They Found
+#### Manager Training Connection (My Other M Variable!)
+- Having a good manager is the **#2 predictor of whether early-career people quit** (right after pay): Odds ratio of 2.1
+- Employees whose managers got training in coaching/development quit **19% less often** than those with untrained managers
+- When they asked people why they left, **67% said "lack of development opportunities"** - this is huge!
 
-#### Related to Your Solution (Development as Part of Total Compensation)
-- Organizations offering structured development programs retained early-career talent at **74% vs. 56%** after 3 years
-- Mentorship programs reduced turnover by **13 percentage points** (from 28% to 15% annual rate)
-- **Combination of competitive pay + development = multiplicative effect:** 91% retention vs. 68% for pay alone
+#### The Pay + Development Combo Effect
+- Companies with structured development programs kept **74% of early-career employees after 3 years** vs. only 56% 
+without programs
+- Mentorship programs dropped turnover by **13 percentage points** (from 28% down to 15% annually)
+- Here's the kicker: **Competitive pay + development together = way better than either alone:** 91% retention vs. 68%
+ for just pay (this supports my combined intervention idea!)
 
-#### Important Statistics/Results
-- **Odds Ratio:** 2.1 [95% CI: 1.8-2.5] for turnover with poor manager quality
-- **Hazard Ratio:** 0.81 [95% CI: 0.74-0.88] for each additional development opportunity offered
-- **Interaction Effect:** Pay × Development interaction coefficient β = 0.34 (p < 0.001)
-- **Cohen's f²:** 0.18 for manager quality effect (medium effect size)
+#### The Stats
+- **Odds Ratio:** 2.1 [95% CI: 1.8-2.5] for quitting with a bad manager
+- **Hazard Ratio:** 0.81 [95% CI: 0.74-0.88] for each development opportunity offered
+- **Interaction Effect:** Pay × Development β = 0.34 (p < 0.001) - they work better together!
+- **Effect Size:** Cohen's f² = 0.18 for manager quality (medium effect)
 
-### Relevance Assessment
-- **Problem Relevance:** **High** - Addresses early-career retention specifically
-- **Solution Relevance:** **High** - Shows manager training (your M variable) independently and interactively 
-affects retention
-- **Context Similarity:** **Very High** - US early-career professional focus perfectly matches your problem
+### Why This Matters for My Project
+- **Perfect for my problem:** Literally about early-career retention
+- **Supports combined approach:** Shows manager training works independently AND boosts the pay effect
+- **Same context:** US early-career professionals - exactly who I'm trying to help
 
 ---
 
