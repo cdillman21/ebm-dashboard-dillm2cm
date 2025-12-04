@@ -1,268 +1,966 @@
 # Assessment: Monitoring & Evaluation Plan
 # Systematic approach to measuring implementation success and organizational impact
 
+## Logic Model: Theory of How Our Intervention Works
+
+The Logic Model provides a visual and conceptual framework showing how our intervention (Retention Acceleration Program) is expected to improve early-career retention. It makes explicit our assumptions about causality.
+
+### Logic Model Structure: X → M → Y
+
+**X (Independent Variable - The Intervention):**
+- **Manager Capability Development:** Training focused on 3 core behaviors (weekly 1-on-1s, constructive feedback, career development conversations)
+- **Compensation Competitiveness:** Adjustment to 90th percentile market rate for early-career employees
+
+**M (Mediator - The Mechanism):**
+- **Improved Job Satisfaction:** Employees feel more supported, valued, and engaged
+- **Enhanced Manager Quality:** Managers become more effective at coaching, feedback, and development
+- **Stronger Career Growth Perception:** Employees see clearer path for career advancement
+
+**Y (Dependent Variable - The Outcome):**
+- **Increased Retention Rate:** 60% → 75%+ retention over 24 months
+- **Reduced Voluntary Turnover:** Fewer employees choosing to leave
+
+### Causal Chain Explanation
+
+**How X Causes M:**
+1. **Manager Training (X1) → Improved Manager Quality (M2)**
+   - Managers learn evidence-based coaching, feedback, and development skills
+   - Practice + feedback + ongoing coaching helps managers apply skills consistently
+   - Employees notice and experience better quality 1-on-1s, more constructive feedback, more career development support
+
+2. **Compensation Adjustment (X2) → Job Satisfaction (M1)**
+   - Competitive pay removes financial anxiety and "am I being taken advantage of?" concern
+   - Fair compensation signals organization values early-career employees
+   - Pay satisfaction increases (even if absolute pay doesn't make employees wealthy)
+
+3. **Improved Manager Quality (M2) + Competitive Comp (X2) → Career Growth Perception (M3)**
+   - Managers having career development conversations makes growth path visible
+   - Fair compensation + growth opportunity creates compelling value proposition
+   - Employees see reason to stay and invest in organization long-term
+
+**How M Causes Y:**
+4. **Job Satisfaction (M1) + Manager Quality (M2) + Career Growth (M3) → Retention (Y)**
+   - Satisfied employees with good managers and growth opportunities are less likely to seek external opportunities
+   - When external recruiters call, employees have compelling reason to say no
+   - Retention decisions happen at individual level ("Should I stay or leave?") - our intervention shifts calculus toward "stay"
+
+### Assumptions Underlying Logic Model
+
+**Critical Assumptions (if these are wrong, model fails):**
+1. **Manager Quality is Trainable:** Managers can learn and consistently apply coaching/feedback/development skills *(Evidence: STRONG)*
+2. **Manager Quality Drives Retention:** Better manager quality actually causes higher retention, not just correlates *(Evidence: STRONG but mostly correlational)*
+3. **Compensation is Necessary Foundation:** Can't train way out of pay problem - comp must be competitive *(Evidence: STRONG)*
+4. **Combined Approach is Synergistic:** Manager training + comp together > sum of parts *(Evidence: MODERATE)*
+5. **Generalizes to Our Context:** What worked in research contexts will work in our organization *(Evidence: MODERATE - pilot will test)*
+
+**Moderating Factors (things that could make intervention more or less effective):**
+- **Manager Willingness:** If managers resist training or don't authentically engage, M2 won't improve
+- **Organizational Culture:** If broader culture is toxic, good managers can't overcome it
+- **Labor Market Conditions:** Tight labor market makes retention harder regardless of intervention
+- **Economic Conditions:** Recession could increase retention regardless of our intervention (confound)
+- **Leadership Stability:** Major organizational changes could disrupt intervention effectiveness
+
+**Confounding Variables (things we need to control for in evaluation):**
+- **Economic Recession:** Could increase retention for reasons unrelated to our intervention
+- **Competitor Actions:** Competitors also raising comp could offset our adjustments
+- **Organizational Changes:** Restructuring, layoffs, new leadership could affect retention independent of intervention
+- **Self-Selection in Pilot:** Volunteer managers may be better than average (not representative)
+
+---
+
 ## Evaluation Framework Overview
 
 ### Evaluation Questions
-**Primary Evaluation Question:** [Main question about whether your solution worked]
+
+**Primary Evaluation Question:** 
+Did the Retention Acceleration Program (RAP) successfully improve early-career employee retention from 60% to 75%+ over 24 months?
 
 **Secondary Evaluation Questions:**
-1. [Second most important question about effectiveness]
-2. [Third most important question about implementation process]
-3. [Fourth question about stakeholder satisfaction]
-4. [Fifth question about unintended consequences]
+1. **Effectiveness:** Which components of the intervention (manager training vs. compensation) had the biggest impact on retention?
+2. **Implementation:** How well was the intervention implemented? Did managers actually apply the skills they learned?
+3. **Mechanism:** Did the intervention work through the hypothesized mediators (job satisfaction, manager quality, career growth perception)?
+4. **Stakeholder Satisfaction:** Do managers and employees view the intervention positively? Would they recommend continuing it?
+5. **Unintended Consequences:** Did the intervention create any unexpected positive or negative effects (e.g., resentment from non-pilot employees, equity concerns, manager burnout)?
+6. **Cost-Effectiveness:** Did the benefits (prevented turnover costs) outweigh the investment? What was the ROI?
+7. **Sustainability:** Can the intervention be maintained long-term without external consultant? Does it require ongoing investment?
+8. **Generalizability:** Did the intervention work equally well across different departments, manager types, and employee groups?
 
 ### Evaluation Approach
-**Evaluation Type:** [Formative (during implementation) and/or Summative (after completion)]
-**Evaluation Design:** [Before-and-after comparison, with-and-without comparison, case study, etc.]
-**Mixed Methods Approach:** [How you'll combine quantitative and qualitative data]
+
+**Evaluation Type:** Mixed - both Formative (during implementation to improve program) and Summative (after implementation to assess impact)
+
+**Evaluation Design:** Quasi-Experimental Before-and-After with Comparison Group
+- **Pilot Phase:** Pilot teams (intervention) vs. Control teams (no intervention) - with-and-without comparison
+- **Full Rollout:** Organization-wide before-and-after comparison (pre-intervention baseline vs. post-intervention)
+- **Longitudinal Design:** Track changes over 24 months to assess sustained impact
+
+**Mixed Methods Approach:**
+- **Quantitative:** Retention rates, engagement scores, manager effectiveness ratings, turnover cost calculations, survey data (establish effect size and statistical significance)
+- **Qualitative:** Manager interviews, employee focus groups, exit interviews, observational data (understand mechanisms, barriers, and lived experience)
+- **Integration:** Quantitative shows WHAT happened and HOW MUCH; qualitative shows WHY and HOW
+
+---
 
 ## Key Performance Indicators (KPIs)
 
 ### Outcome KPIs (What Changed)
 
-#### Primary Outcome KPI
-**KPI:** [Most important measure of whether your solution worked]
-- **Current Baseline:** [Where you're starting from]
-- **Target:** [What you want to achieve]
-- **Timeline:** [When you expect to see this change]
-- **Data Source:** [Where this data comes from]
-- **Collection Method:** [How you'll gather this data]
-- **Measurement Frequency:** [How often you'll measure this]
+#### Primary Outcome KPI: Retention Rate
+
+**KPI:** Early-Career Employee Retention Rate (% of employees with 0-3 years tenure who stay 12+ months)
+- **Current Baseline:** 60% retention (40% annual turnover)
+- **Pilot Target:** 70-75% retention for pilot teams by Month 12
+- **Full Rollout Target:** 75%+ retention organization-wide by Month 24
+- **Timeline:** Measure quarterly, expect visible movement by Month 9-12, full impact by Month 18-24
+- **Data Source:** HR information system (HRIS) - employee start dates, end dates, tenure
+- **Collection Method:** Automated HRIS report - calculate % of early-career employees (hired in last 3 years) who stayed 12+ months
+- **Measurement Frequency:** Quarterly (every 3 months)
+
+**Interpretation:**
+- **Strong Success:** 75%+ retention (15+ percentage point improvement)
+- **Moderate Success:** 68-74% retention (8-14 percentage point improvement)
+- **Weak/Failure:** <68% retention (<8 percentage point improvement)
 
 #### Secondary Outcome KPIs
-**KPI 1:** [Second most important outcome measure]
-- **Current Baseline:** [Starting point]
-- **Target:** [Goal]
-- **Timeline:** [Expected timeframe]
-- **Data Source & Method:** [How you'll measure]
 
-**KPI 2:** [Third most important outcome measure]
-[Follow same structure]
+**KPI 1: Engagement Scores**
+- **Current Baseline:** Establish baseline in Month 1 (estimate: 60-65 out of 100)
+- **Pilot Target:** 15-20 point increase for pilot teams by Month 6
+- **Full Rollout Target:** 20+ point increase organization-wide by Month 12
+- **Timeline:** Measure quarterly
+- **Data Source & Method:** Quarterly engagement pulse survey (5-10 questions, 100-point scale)
+- **Significance:** Engagement is leading indicator of retention - if engagement rises, retention should follow
 
-**KPI 3:** [Fourth most important outcome measure]
-[Follow same structure]
+**KPI 2: Manager Effectiveness Ratings**
+- **Current Baseline:** Establish baseline in Month 1 (estimate: 55-60 out of 100)
+- **Pilot Target:** 25-30 point increase for pilot managers by Month 6
+- **Full Rollout Target:** 30+ point increase organization-wide by Month 12
+- **Timeline:** Measure quarterly
+- **Data Source & Method:** Employee ratings of manager quality (5-8 questions on 100-point scale covering coaching, feedback, career development)
+- **Significance:** This measures M2 (mediator) - if manager quality doesn't improve, model predicts retention won't improve
+
+**KPI 3: Voluntary Turnover Reasons**
+- **Current Baseline:** 68% of departing employees cite "manager relationship" as reason for leaving
+- **Target:** <40% cite manager issues by Month 18 (28+ percentage point reduction)
+- **Timeline:** Track continuously, analyze quarterly
+- **Data Source & Method:** Exit interview data - code departure reasons, calculate % citing manager issues
+- **Significance:** Shows whether we're addressing root cause
+
+**KPI 4: Job Satisfaction**
+- **Current Baseline:** Establish baseline in Month 1
+- **Target:** 15-20 point increase by Month 12
+- **Timeline:** Measure quarterly
+- **Data Source & Method:** 3-5 question job satisfaction scale in pulse survey
+- **Significance:** This measures M1 (mediator)
+
+**KPI 5: Career Growth Perception**
+- **Current Baseline:** Establish baseline in Month 1
+- **Target:** 20-25 point increase by Month 12 (higher bar because career development is explicit focus)
+- **Timeline:** Measure quarterly
+- **Data Source & Method:** 2-3 questions on career growth opportunities and development support in pulse survey
+- **Significance:** This measures M3 (mediator)
 
 ### Process KPIs (How Implementation Went)
 
 #### Implementation Quality KPIs
-**KPI:** [Measure of how well you implemented the solution]
-- **Target:** [What good implementation looks like]
-- **Data Source:** [Where this data comes from]
-- **Collection Method:** [How you'll track this]
-- **Measurement Frequency:** [How often you'll measure]
 
-**KPI:** [Second measure of implementation quality]
-[Follow same structure]
+**KPI 1: Manager Skill Application Rate**
+- **Target:** 80%+ of managers consistently conducting weekly 1-on-1s, giving constructive feedback, having career development conversations
+- **Data Source:** Manager self-reports + employee validation surveys ("My manager does weekly 1-on-1s: Yes/No")
+- **Collection Method:** Monthly manager behavior tracking checklist + quarterly employee validation
+- **Measurement Frequency:** Monthly
+- **Significance:** Implementation fidelity - if managers aren't applying skills, intervention won't work
+
+**KPI 2: Training Attendance and Completion**
+- **Target:** 90%+ workshop attendance, 100% completion of 3-workshop series
+- **Data Source:** Training attendance records
+- **Collection Method:** Attendance tracking at workshops
+- **Significance:** Can't benefit from training if don't attend
+
+**KPI 3: Individual Coaching Participation**
+- **Target:** 80%+ of managers participate in monthly individual coaching sessions
+- **Data Source:** Coaching session logs
+- **Collection Method:** Coach tracks sessions
+- **Significance:** Ongoing support drives skill retention and application
 
 #### Stakeholder Engagement KPIs
-**KPI:** [Measure of stakeholder participation/satisfaction]
-- **Target:** [What good stakeholder engagement looks like]
-- **Data Source:** [Where this data comes from]
-- **Collection Method:** [How you'll track this]
+
+**KPI: Manager and Employee Satisfaction with Program**
+- **Target:** 70%+ of managers rate program as "valuable" or "very valuable"; 70%+ of employees notice improvement in manager quality
+- **Data Source:** End-of-pilot survey (Month 5), end-of-rollout survey (Month 18)
+- **Collection Method:** Program satisfaction survey
+- **Significance:** Stakeholder buy-in determines sustainability
 
 #### Resource Utilization KPIs
-**KPI:** [Measure of whether you used resources efficiently]
-- **Target:** [What efficient resource use looks like]
-- **Data Source:** [Where this data comes from]
-- **Collection Method:** [How you'll track this]
+
+**KPI: Program Stays Within Budget**
+- **Target:** Pilot costs ≤$155K, Full rollout Year 1 costs ≤$610K
+- **Data Source:** Finance tracking
+- **Collection Method:** Monthly budget vs. actual reports
+- **Significance:** Cost overruns threaten sustainability and leadership support
 
 ### Impact KPIs (Broader Organizational Effects)
 
 #### Organizational Performance KPIs
-**KPI:** [Measure of broader organizational improvement]
-- **Current Baseline:** [Starting point]
-- **Target:** [Expected improvement]
-- **Timeline:** [When you expect to see this]
-- **Data Source & Method:** [How you'll measure]
+
+**KPI 1: Turnover Cost Savings**
+- **Current Baseline:** $2M annual turnover cost (40 departures × $50K per departure)
+- **Target:** $600K annual savings by Month 18 (12 prevented departures)
+- **Timeline:** Calculate quarterly based on retention improvement
+- **Data Source & Method:** (Baseline turnover rate - Current turnover rate) × Number of early-career employees × $50K cost per departure
+- **Significance:** Financial ROI justification
+
+**KPI 2: Productivity Improvement**
+- **Target:** 10-15% productivity improvement for employees with trained managers (difficult to quantify precisely - use proxy measures)
+- **Data Source:** Manager ratings of team productivity, project completion rates, performance review scores
+- **Significance:** Secondary benefit beyond retention
+
+**KPI 3: Promotion Rate**
+- **Current Baseline:** Establish baseline promotion rate for early-career employees
+- **Target:** 20-30% increase in promotion rate (more employees developing and advancing internally)
+- **Timeline:** Measure annually
+- **Data Source:** HRIS promotion data
+- **Significance:** Retention is good, but retaining AND developing is better
 
 #### Cultural/Climate KPIs
-**KPI:** [Measure of organizational culture/climate changes]
-[Follow same structure]
+
+**KPI: Manager Capability Becomes Organizational Norm**
+- **Target:** By Month 24, manager quality integrated into performance reviews, new manager onboarding, and promotion criteria
+- **Data Source:** HR policy documents, performance review system
+- **Collection Method:** Document review
+- **Significance:** Sustainability indicator - is this becoming "how we do things"?
+
+---
 
 ## Data Collection Plan
 
 ### Quantitative Data Collection
 
 #### Organizational Data
-**Data Type 1:** [First type of organizational data you'll collect]
-- **Source:** [Where this data comes from]
-- **Collection Frequency:** [How often you'll collect it]
-- **Collection Method:** [How you'll extract/gather it]
-- **Analysis Plan:** [How you'll analyze this data]
 
-**Data Type 2:** [Second type of organizational data]
-[Follow same structure]
+**Data Type 1: Retention and Turnover Data**
+- **Source:** HRIS (employee start dates, end dates, tenure, department, manager, job title)
+- **Collection Frequency:** Continuous tracking, quarterly analysis
+- **Collection Method:** Automated HRIS report exported quarterly
+- **Analysis Plan:** 
+  - Calculate retention rate: (# employees with 0-3 years tenure who stayed 12+ months) / (total # employees with 0-3 years tenure)
+  - Compare pilot teams vs. control teams
+  - Compare pre-intervention baseline vs. during-intervention vs. post-intervention
+  - Analyze by subgroup (department, manager, tenure cohort) to identify patterns
+
+**Data Type 2: Compensation Data**
+- **Source:** HRIS payroll records
+- **Collection Frequency:** Before compensation adjustments, after adjustments (Months 6-12)
+- **Collection Method:** HR compensation report
+- **Analysis Plan:** Verify all early-career employees reached 90th percentile, calculate total compensation investment
+
+**Data Type 3: Exit Interview Data**
+- **Source:** HR exit interview notes
+- **Collection Frequency:** Continuous (every exit interview), quarterly analysis
+- **Collection Method:** Structured exit interview form with coded departure reasons
+- **Analysis Plan:** Code departure reasons (manager, compensation, career growth, work-life balance, etc.), calculate % citing each reason, track trends over time
 
 #### Survey Data
-**Survey 1: Stakeholder Satisfaction Survey**
-- **Target Population:** [Who will take this survey]
-- **Sample Size Goal:** [How many responses you want]
-- **Timing:** [When you'll conduct survey - before, during, after implementation]
-- **Key Questions:** [Most important questions on the survey]
-- **Administration Method:** [How you'll distribute and collect the survey]
 
-**Survey 2:** [Second survey, if conducting multiple]
-[Follow same structure]
+**Survey 1: Quarterly Engagement + Manager Effectiveness Pulse**
+- **Target Population:** All early-career employees (intervention and control)
+- **Sample Size Goal:** 70%+ response rate (aim for ~70-80 responses if 100 early-career employees)
+- **Timing:** Baseline (Month 1), then quarterly (Months 4, 7, 10, 13, 16, 19, 22)
+- **Key Questions:**
+  - Engagement (5-7 questions): "I'm proud to work here," "I'd recommend this company to a friend," "I'm motivated to go above and beyond"
+  - Manager Effectiveness (5-8 questions): "My manager meets with me regularly," "My manager gives me helpful feedback," "My manager supports my career development," "My manager cares about me as a person"
+  - Job Satisfaction (3-5 questions): "I'm satisfied with my job overall," "I'm satisfied with my compensation," "I find my work meaningful"
+  - Career Growth (2-3 questions): "I see opportunities to grow my career here," "My manager supports my development," "I understand my career path"
+- **Administration Method:** Online survey platform (SurveyMonkey, Qualtrics, Google Forms), emailed link, 1-week response window
+
+**Survey 2: Program Satisfaction Survey (End of Pilot - Month 5)**
+- **Target Population:** Pilot managers + Pilot team employees
+- **Sample Size Goal:** 80%+ response rate from pilot participants
+- **Timing:** Month 5 (after 3-month pilot completes)
+- **Key Questions:**
+  - Managers: "How valuable was the training?" "Did it improve your effectiveness?" "What worked well?" "What should be improved?" "Would you recommend this to other managers?"
+  - Employees: "Have you noticed any changes in your manager's approach?" "Do you feel more supported?" "Has the program affected your intention to stay?"
+- **Administration Method:** Online survey
+
+**Survey 3: Annual Comprehensive Program Evaluation (Month 18)**
+- **Target Population:** All managers, all employees (organization-wide)
+- **Sample Size Goal:** 60%+ organization-wide response rate
+- **Timing:** Month 18 (full rollout complete, enough time for impact)
+- **Key Questions:** Covers engagement, manager effectiveness, job satisfaction, career growth, program awareness, program impact, recommendations for improvement
+- **Administration Method:** Online survey, promoted through all-hands meetings and email campaigns
 
 ### Qualitative Data Collection
 
 #### Interview Data
-**Interview Type 1: Implementation Experience Interviews**
-- **Target Participants:** [Who you'll interview]
-- **Number of Interviews:** [How many interviews you plan]
-- **Timing:** [When you'll conduct interviews]
-- **Key Topics:** [Main questions you'll explore]
-- **Interview Method:** [In-person, phone, video, etc.]
 
-**Interview Type 2:** [Second type of interviews]
-[Follow same structure]
+**Interview Type 1: Pilot Manager Implementation Experience Interviews**
+- **Target Participants:** 10-15 pilot managers
+- **Number of Interviews:** All pilot managers (10-15 total)
+- **Timing:** Month 4 (during pilot), Month 18 (after full rollout)
+- **Key Topics:**
+  - What aspects of training were most/least helpful?
+  - What barriers did you face in applying new skills?
+  - How did your team respond to changes in your management approach?
+  - What support do you need to sustain these practices?
+  - Would you recommend this program? Why or why not?
+- **Interview Method:** One-on-one virtual or in-person interviews (30-45 min), semi-structured protocol
+
+**Interview Type 2: Employee Experience Interviews**
+- **Target Participants:** 15-20 employees from pilot teams + control teams (mix)
+- **Number of Interviews:** 15-20 total
+- **Timing:** Month 5 (end of pilot), Month 18 (end of full rollout)
+- **Key Topics:**
+  - Have you noticed any changes in your manager's approach?
+  - How has this affected your work experience?
+  - Do you feel more or less inclined to stay with the organization? Why?
+  - What could make the program better?
+- **Interview Method:** One-on-one confidential interviews (20-30 min)
+
+**Interview Type 3: Exit Interviews (Ongoing)**
+- **Target Participants:** All departing early-career employees
+- **Number of Interviews:** Ongoing (every voluntary departure)
+- **Timing:** Within 1 week of departure announcement
+- **Key Topics:**
+  - Why are you leaving?
+  - What would have made you stay?
+  - How was your relationship with your manager?
+  - Did compensation play a role in your decision?
+- **Interview Method:** Structured exit interview protocol, HR-conducted
 
 #### Focus Group Data
-**Focus Group:** [Topic/purpose of focus group]
-- **Participants:** [Who will participate]
-- **Timing:** [When you'll conduct focus group]
-- **Key Questions:** [Main topics you'll explore]
+
+**Focus Group 1: Manager Implementation Barriers and Solutions**
+- **Participants:** 8-10 pilot managers
+- **Timing:** Month 3 (mid-pilot check-in)
+- **Key Questions:**
+  - What's working well in applying new skills?
+  - What barriers are you facing?
+  - How can we support you better?
+  - What adjustments should we make before scaling?
+- **Method:** 90-minute facilitated discussion, virtual or in-person
+
+**Focus Group 2: Employee Perception of Program**
+- **Participants:** 8-10 employees from pilot teams
+- **Timing:** Month 5 (end of pilot)
+- **Key Questions:**
+  - What changes have you noticed?
+  - How has this affected your work experience?
+  - What's working well? What could be better?
+- **Method:** 60-minute facilitated discussion
 
 #### Observation Data
-**What You'll Observe:** [Behaviors, processes, interactions you'll observe]
-- **Observation Settings:** [Where you'll observe]
-- **Observation Schedule:** [When and how often you'll observe]
-- **Documentation Method:** [How you'll record observations]
+
+**What We'll Observe:** Manager-employee 1-on-1 meetings, manager coaching sessions, workshop participation quality
+- **Observation Settings:** Training workshops (observe engagement, practice quality), occasional 1-on-1 observations (with permission)
+- **Observation Schedule:** All workshops (Months 2-4 for pilot, Months 6-9 for rollout), 2-3 manager 1-on-1 spot checks per manager during pilot
+- **Documentation Method:** Observation notes using structured rubric (Did manager ask open-ended questions? Provide specific feedback? Discuss career development?)
+- **Purpose:** Implementation fidelity check - are managers actually doing what we trained them to do?
 
 ### Document Review
-**Document Type 1:** [First type of documents you'll review]
-- **Purpose:** [What these documents will tell you]
-- **Collection Method:** [How you'll access these documents]
 
-**Document Type 2:** [Second type of documents]
-[Follow same structure]
+**Document Type 1: Manager Development Plans and Coaching Notes**
+- **Purpose:** Track manager skill development and ongoing coaching
+- **Collection Method:** Request de-identified coaching notes from consultant
+- **Analysis:** Identify common themes in manager challenges and growth areas
+
+**Document Type 2: Performance Review Data**
+- **Purpose:** See if manager capability is being integrated into performance management (sustainability indicator)
+- **Collection Method:** Review updated performance review templates and manager performance review data (Month 18+)
+- **Analysis:** Check whether manager effectiveness metrics are present and being used
+
+---
 
 ## Evaluation Timeline
 
-### Pre-Implementation Data Collection [Baseline Period]
-**Timeline:** [When you'll collect baseline data]
+### Pre-Implementation Data Collection [Baseline Period - Month 1]
+
+**Timeline:** Month 1 (Preparation phase)
 
 **Activities:**
-- [ ] [First baseline data collection activity]
-- [ ] [Second baseline data collection activity]
-- [ ] [Third baseline data collection activity]
+- ✓ Baseline engagement survey (all early-career employees)
+- ✓ Baseline manager effectiveness survey (all early-career employees rate their managers)
+- ✓ Extract baseline retention data from HRIS (past 12 months)
+- ✓ Review past 12 months of exit interview data, code departure reasons
+- ✓ Establish control group (non-pilot teams with similar baseline retention rates and characteristics)
 
 ### During Implementation Monitoring
-**Timeline:** [When you'll collect monitoring data during implementation]
 
-**Month 1 Activities:**
-- [ ] [First month monitoring activities]
+**Timeline:** Months 2-24 (throughout pilot and full rollout)
 
-**Month 2 Activities:**
-- [ ] [Second month monitoring activities]
+**Monthly Activities (Pilot Phase - Months 2-4):**
+- ✓ Track workshop attendance (Did all pilot managers attend?)
+- ✓ Monitor skill application (Monthly checklist: Are managers doing weekly 1-on-1s, giving feedback, having career conversations?)
+- ✓ Individual coaching session logs (Are managers participating in coaching?)
+- ✓ Budget tracking (Are we staying within $155K pilot budget?)
+- ✓ Informal check-ins with pilot managers (How's it going? What barriers are you facing?)
 
-**Quarterly Activities:**
-- [ ] [Quarterly monitoring activities]
+**Month 3 Activities (Mid-Pilot Check-In):**
+- ✓ Manager focus group (implementation barriers and solutions)
+- ✓ Early data review (Are leading indicators starting to move?)
+- ✓ Preliminary pilot assessment (Continue as-is or make adjustments?)
+
+**Month 4 Activities (End of Pilot Training):**
+- ✓ Quarterly engagement + manager effectiveness pulse survey (pilot teams + control teams)
+- ✓ Manager implementation experience interviews (all 10-15 pilot managers)
+- ✓ Observe final workshops and manager skill application
+
+**Month 5 Activities (Pilot Evaluation):**
+- ✓ Employee perception focus group (employees from pilot teams)
+- ✓ Program satisfaction survey (pilot managers + pilot team employees)
+- ✓ Pilot evaluation report (quantitative + qualitative data synthesis)
+- ✓ Scale/Extend/Stop decision meeting with leadership
+
+**Quarterly Activities (Full Rollout - Months 6-24):**
+- ✓ Engagement + Manager Effectiveness pulse survey (organization-wide)
+- ✓ Retention data analysis (HRIS export, calculate retention rates, compare to baseline)
+- ✓ Exit interview data coding and trend analysis
+- ✓ Budget vs. actual tracking
+- ✓ Manager skill application spot checks (sample of managers)
+- ✓ Quarterly KPI dashboard update
+- ✓ Executive briefing (progress, key findings, barriers, recommendations)
+
+**Semi-Annual Activities (Months 12 and 18):**
+- ✓ Comprehensive data analysis (all KPIs, trend analysis, subgroup analysis)
+- ✓ Manager and employee interviews (15-20 each)
+- ✓ Program satisfaction survey (organization-wide)
+- ✓ Detailed progress report
 
 ### Post-Implementation Evaluation
-**Timeline:** [When you'll conduct final evaluation]
 
-**Immediate Post-Implementation (0-1 month after):**
-- [ ] [Immediate follow-up data collection]
+**Timeline:** Months 18-24 (after full rollout completes)
 
-**Short-term Follow-up (3-6 months after):**
-- [ ] [Short-term follow-up activities]
+**Month 18 Activities (Full Rollout Complete):**
+- ✓ Comprehensive program evaluation survey (all managers, all employees)
+- ✓ Calculate final retention rate and compare to 75%+ target
+- ✓ ROI calculation (turnover cost savings vs. program investment)
+- ✓ Manager and employee interviews (impact and sustainability)
+- ✓ Document review (is manager capability embedded in performance management?)
+- ✓ Summative evaluation report (Did it work? Should we continue? What should we adjust?)
 
-**Long-term Follow-up (12+ months after):**
-- [ ] [Long-term follow-up activities]
+**Month 24 Activities (Long-Term Sustainability Check):**
+- ✓ Retention rate sustained or declining?
+- ✓ Manager skills sustained or deteriorating?
+- ✓ Engagement and manager effectiveness scores holding or dropping?
+- ✓ Program cost review (are we down to $100-160K/year ongoing costs as planned?)
+- ✓ Internal capability assessment (can we sustain without external consultant?)
+- ✓ Final evaluation report with long-term recommendations
+
+---
 
 ## Data Analysis Plan
 
 ### Quantitative Analysis
 
 #### Outcome Analysis
-**Primary Outcome Analysis:** [How you'll analyze your main success measure]
-- **Statistical Approach:** [What statistical methods you'll use]
-- **Comparison Strategy:** [Before vs. after, treatment vs. control, etc.]
-- **Significance Criteria:** [What counts as meaningful change]
 
-**Secondary Outcome Analysis:** [How you'll analyze other outcome measures]
-[Follow same structure]
+**Primary Outcome Analysis: Retention Rate**
+- **Statistical Approach:**
+  - Descriptive statistics: Calculate retention rate each quarter, plot trend over time
+  - Comparison of means: T-test comparing pilot teams vs. control teams (Month 12), paired t-test comparing pre-intervention vs. post-intervention (Month 18)
+  - Effect size calculation: Cohen's d to quantify magnitude of improvement
+- **Comparison Strategy:**
+  - Pilot phase: Pilot teams vs. Control teams (with-and-without comparison)
+  - Full rollout: Pre-intervention baseline vs. During-intervention vs. Post-intervention (before-and-after comparison)
+  - Longitudinal: Quarterly retention rates plotted over 24 months to see trajectory
+- **Significance Criteria:**
+  - **Statistically Significant:** p < 0.05 (retention improvement is unlikely due to chance)
+  - **Practically Significant:** 10+ percentage point improvement (meaningful business impact, not just statistically detectable)
+  - **Target:** 15+ percentage point improvement (60% → 75%+)
+
+**Secondary Outcome Analysis: Engagement, Manager Effectiveness, Job Satisfaction, Career Growth**
+- **Statistical Approach:** Same as retention (t-tests, effect sizes, trend analysis)
+- **Comparison Strategy:** Pilot vs. control, pre vs. post, quarterly trends
+- **Significance Criteria:**
+  - Engagement: 15-20+ point improvement (statistically and practically significant)
+  - Manager Effectiveness: 25-30+ point improvement
+  - Job Satisfaction: 15-20+ point improvement
+  - Career Growth: 20-25+ point improvement
+
+**Mediator Analysis (Does M mediate X→Y relationship?):**
+- **Question:** Did the intervention improve retention THROUGH the mediators (job satisfaction, manager quality, career growth)?
+- **Approach:** Correlation and regression analysis
+  - Step 1: Does X (intervention) predict M (mediators)? YES if manager training → improved manager effectiveness ratings
+  - Step 2: Does M predict Y (retention)? YES if improved manager effectiveness → higher retention
+  - Step 3: Does X→Y relationship weaken when controlling for M? YES if intervention effect on retention is explained by mediator improvements
+- **Interpretation:** If mediators explain the retention improvement, our Logic Model is validated. If retention improves WITHOUT mediator changes, our theory is wrong.
 
 #### Trend Analysis
-**How You'll Examine Trends Over Time:** [Method for analyzing changes over time]
-**Patterns You'll Look For:** [What kinds of trends would be meaningful]
+
+**How We'll Examine Trends Over Time:**
+- **Line graphs:** Plot each KPI quarterly over 24 months to visualize trajectory
+- **Segmented regression:** Did slope change after intervention started? (pre-intervention trend vs. post-intervention trend)
+- **Moving averages:** Smooth out quarterly fluctuations to see overall direction
+
+**Patterns We'll Look For:**
+- **Immediate improvement:** Do leading indicators (engagement, manager effectiveness) improve within 3-6 months?
+- **Delayed improvement:** Does retention improve later (12-18 months) as expected?
+- **Sustained improvement:** Do gains hold or fade over time?
+- **Accelerating vs. plateauing:** Are we still improving or have we maxed out?
 
 ### Qualitative Analysis
 
 #### Thematic Analysis
-**Interview Analysis Approach:** [How you'll analyze interview data]
-**Coding Strategy:** [How you'll organize and categorize qualitative data]
-**Theme Identification:** [How you'll identify key themes]
+
+**Interview Analysis Approach:**
+- **Step 1:** Transcribe all manager and employee interviews
+- **Step 2:** Read transcripts multiple times to identify recurring themes
+- **Step 3:** Code transcripts (tag segments with theme labels: "manager resistance," "skill application barriers," "positive employee response," etc.)
+- **Step 4:** Group codes into broader themes
+- **Step 5:** Count frequency of themes (How many managers mentioned this barrier?)
+- **Step 6:** Extract illustrative quotes for each theme
+
+**Coding Strategy:**
+- **Deductive Codes:** Pre-defined codes based on evaluation questions and Logic Model (e.g., "improved job satisfaction," "manager training effectiveness," "compensation impact")
+- **Inductive Codes:** Emergent codes based on what participants actually say (e.g., if multiple people mention "time constraints," add that code)
+- **Two Coders:** Have two people code independently, compare, resolve discrepancies (increases reliability)
+
+**Theme Identification:**
+- **Implementation Themes:** What made implementation easy or hard? (e.g., time constraints, leadership support, training quality)
+- **Mechanism Themes:** How did the intervention work? (e.g., "managers became better listeners," "employees felt more valued")
+- **Outcome Themes:** What changed and why? (e.g., "I'm staying because my manager invests in me now")
+- **Unintended Consequences:** Unexpected positive or negative effects
 
 #### Content Analysis
-**Document Analysis Approach:** [How you'll analyze documents]
-**Observation Analysis:** [How you'll analyze observational data]
+
+**Document Analysis Approach:**
+- **Exit Interview Data:** Code departure reasons into categories (manager, compensation, career growth, work-life balance, other), calculate % in each category each quarter, track trends
+- **Coaching Notes:** Identify common manager development themes and challenges
+- **Performance Review Templates:** Check whether manager effectiveness metrics are included (sustainability indicator)
+
+**Observation Analysis:**
+- **Workshop Observations:** Rate engagement level, practice quality, manager questions asked
+- **1-on-1 Observations:** Use rubric to score whether manager demonstrated trained skills (open-ended questions, specific feedback, career development discussion)
+- **Calculate Fidelity Score:** % of trained behaviors observed during spot checks
 
 ### Mixed Methods Integration
-**How You'll Combine Quantitative and Qualitative Findings:** [Strategy for integrating different types of data]
-**Triangulation Approach:** [How you'll use multiple data sources to validate findings]
+
+**How We'll Combine Quantitative and Qualitative Findings:**
+
+1. **Quantitative First:** Analyze survey and retention data to identify WHAT happened and HOW MUCH (e.g., "Retention improved 12 percentage points; engagement up 18 points")
+
+2. **Qualitative Explains WHY:** Use interviews and focus groups to understand mechanisms (e.g., "Interviews reveal employees stayed because they now have career development conversations with managers")
+
+3. **Triangulation:** Look for convergence across data sources
+   - If quantitative shows manager effectiveness up 30 points AND qualitative shows employees consistently praising managers AND observations show managers applying skills → STRONG CONFIDENCE in finding
+   - If quantitative shows improvement BUT qualitative shows skepticism → INVESTIGATE DISCREPANCY
+
+4. **Divergence Investigation:** When data sources conflict, dig deeper
+   - Example: If retention improves BUT exit interviews still cite manager issues → Maybe we're retaining some but not addressing all manager problems
+   - Example: If engagement up BUT employees complain in interviews → Maybe survey doesn't capture their real concerns
+
+**Triangulation Approach:**
+- **Data Triangulation:** Multiple data sources (surveys + interviews + exit data + observations)
+- **Method Triangulation:** Quantitative + qualitative methods
+- **Investigator Triangulation:** Multiple people analyze data independently, compare conclusions
+- **Theory Triangulation:** Test Logic Model from multiple angles (does X→M? does M→Y? does X→Y?)
+
+**Integration Reporting:**
+- Present quantitative findings with qualitative illustrations (e.g., "Retention improved 12% for pilot teams. As one employee said, 'I was ready to leave until my manager started really investing in my development.'")
+- Use qualitative to explain quantitative outliers (e.g., "One team had zero improvement despite training - interviews revealed that manager didn't authentically engage")
+
+---
 
 ## Success Criteria and Interpretation
 
 ### Success Thresholds
 
-#### Must-Achieve Criteria (Implementation considered successful only if these are met)
-**Criterion 1:** [First essential success criterion]
-- **Measurement:** [How you'll measure this]
-- **Threshold:** [Specific level that must be achieved]
+#### Must-Achieve Criteria (Program considered successful ONLY if these are met)
 
-**Criterion 2:** [Second essential success criterion]
-[Follow same structure]
+**Criterion 1: Retention Rate Improvement of 10+ Percentage Points**
+- **Measurement:** Retention rate for early-career employees (% staying 12+ months)
+- **Threshold:** 70%+ by Month 18 (minimum 10 percentage point improvement from 60% baseline)
+- **Rationale:** If retention doesn't improve by at least 10 points, program failed its primary goal. Anything less doesn't justify the investment.
+
+**Criterion 2: Mediators Show Improvement (Logic Model Validation)**
+- **Measurement:** Manager effectiveness ratings + Job satisfaction scores
+- **Threshold:** Manager effectiveness up 20+ points AND job satisfaction up 10+ points by Month 12
+- **Rationale:** If retention improves WITHOUT mediator improvements, it's likely due to external factors (recession, labor market) not our intervention. We need to see the MECHANISM working.
+
+**Criterion 3: Cost-Benefit is Positive**
+- **Measurement:** Turnover cost savings vs. program investment
+- **Threshold:** At least break-even by Month 24 (savings ≥ investment)
+- **Rationale:** If program loses money even after 2 years, it's not sustainable regardless of retention improvement.
 
 #### Should-Achieve Criteria (Important for full success but not make-or-break)
-**Criterion 1:** [First important success criterion]
-- **Measurement:** [How you'll measure this]
-- **Target:** [Desired level of achievement]
 
-**Criterion 2:** [Second important success criterion]
-[Follow same structure]
+**Criterion 1: Retention Target of 75%+ Achieved**
+- **Measurement:** Retention rate
+- **Target:** 75%+ by Month 24 (15 percentage point improvement)
+- **Rationale:** This is our aspirational goal based on evidence. Achieving it means program worked as expected.
+
+**Criterion 2: Manager Skill Application is High and Sustained**
+- **Measurement:** % of managers consistently doing weekly 1-on-1s, feedback, career conversations
+- **Target:** 80%+ skill application through Month 24 (not just during training period)
+- **Rationale:** If managers apply skills initially but stop after 12 months, program won't have long-term impact.
+
+**Criterion 3: Stakeholder Satisfaction is High**
+- **Measurement:** Manager and employee ratings of program value
+- **Target:** 70%+ rate program as valuable/very valuable
+- **Rationale:** If stakeholders hate the program even though it works, it won't be sustainable.
+
+**Criterion 4: Voluntary Turnover Reasons Shift**
+- **Measurement:** % of departures citing manager relationship
+- **Target:** <50% by Month 18 (down from 68%)
+- **Rationale:** Shows we're addressing root cause, not just masking problem.
 
 #### Could-Achieve Criteria (Nice-to-have outcomes)
-**Criterion 1:** [First nice-to-have success criterion]
-[Follow same structure]
+
+**Criterion 1: Productivity Improvement**
+- **Target:** 10-15% productivity improvement for teams with trained managers
+- **Rationale:** Secondary benefit that strengthens business case
+
+**Criterion 2: Promotion Rate Increase**
+- **Target:** 20%+ increase in internal promotion rate for early-career employees
+- **Rationale:** Retaining AND developing is better than just retaining
+
+**Criterion 3: Employer Brand Improvement**
+- **Target:** Higher Glassdoor ratings, easier recruiting, more employee referrals
+- **Rationale:** Shows program creates broader competitive advantage
 
 ### Interpretation Framework
 
-#### Strong Success Indicators
-[What combination of results would indicate strong success]
+#### Strong Success Indicators (Program exceeded expectations)
+- Retention improved 15+ percentage points (75%+ achieved)
+- All mediators showed strong improvement (manager effectiveness +30, job satisfaction +20, engagement +20)
+- ROI is 150%+ by Month 24
+- Manager skill application sustained at 80%+ through Month 24
+- Stakeholder satisfaction is 75%+
+- Voluntary turnover reasons shifted significantly (<40% cite manager)
+- Evidence of cultural shift (manager capability embedded in systems)
 
-#### Moderate Success Indicators
-[What combination of results would indicate moderate success]
+**Interpretation:** Program worked as intended. Scale and sustain. Use as model for other HR interventions.
 
-#### Weak Success or Failure Indicators
-[What combination of results would indicate the solution didn't work well]
+#### Moderate Success Indicators (Program worked but with limitations)
+- Retention improved 10-14 percentage points (70-74% achieved - good but not great)
+- Mediators showed moderate improvement (manager effectiveness +20-25, satisfaction +10-15)
+- ROI is break-even to 100% by Month 24
+- Manager skill application is 65-79% (decent but some dropoff)
+- Stakeholder satisfaction is 60-69%
+- Some shift in turnover reasons but manager still frequently cited
+
+**Interpretation:** Program had positive impact but didn't achieve full potential. Investigate barriers and make adjustments before declaring victory. May need ongoing investment or modifications to sustain gains.
+
+#### Weak Success or Failure Indicators (Program didn't work as expected)
+- Retention improved <10 percentage points (<70% achieved)
+- Mediators showed minimal or no improvement (manager effectiveness +10 or less)
+- ROI is negative or barely break-even
+- Manager skill application dropped below 65% or never got above 70%
+- Stakeholder satisfaction below 60%
+- No shift in voluntary turnover reasons (manager still cited by 60%+)
+
+**Interpretation:** Program failed to achieve core objectives. Conduct root cause analysis:
+- **Implementation Failure:** Did we execute poorly? (low-quality training, poor manager engagement)
+- **Theory Failure:** Is our Logic Model wrong? (maybe manager quality doesn't actually drive retention in our context)
+- **Contextual Mismatch:** Do external factors override intervention? (labor market, economic conditions, org culture too toxic to fix with manager training)
+
+**Decision:** Don't continue as-is. Either redesign significantly or stop and try different approach.
 
 #### Unintended Consequences Assessment
-**Positive Unintended Consequences:** [Good things that might happen that you didn't plan for]
-**Negative Unintended Consequences:** [Problems that might arise that you need to watch for]
-**Monitoring Strategy:** [How you'll detect unintended consequences]
+
+**Positive Unintended Consequences (Watch for):**
+- Improved cross-team collaboration (managers share best practices)
+- Managers feel more confident and effective in broader role (not just retention)
+- Spillover to experienced employees (managers improve quality for all, not just early-career)
+- Reduced manager turnover (managers stay because they feel supported and developed)
+- Stronger leadership pipeline (trained managers become future senior leaders)
+
+**Negative Unintended Consequences (Watch for and mitigate):**
+- **Resentment from non-pilot employees:** "Why did they get raises and we didn't?"
+  - *Monitoring:* Pulse survey of non-pilot employees, informal feedback
+  - *Mitigation:* Transparent communication about pilot purpose, timeline for rollout to others
+- **Manager burnout:** More 1-on-1s, feedback, career conversations takes time
+  - *Monitoring:* Manager stress/workload questions in surveys, coaching session topics
+  - *Mitigation:* Efficiency tips, time management support, realistic expectations (weekly 1-on-1s can be 15-20 min)
+- **Unrealistic employee expectations:** Career development conversations may raise expectations we can't meet (limited promotions available)
+  - *Monitoring:* Exit interviews (are people leaving because promised promotions didn't happen?)
+  - *Mitigation:* Train managers on realistic career conversations (growth ≠ promotion every year)
+- **Gaming the system:** Managers check boxes (have 1-on-1s) without authentic engagement
+  - *Monitoring:* Employee feedback on manager quality (do employees perceive improvement?), observation spot checks
+  - *Mitigation:* Emphasize quality over quantity, use employee feedback in manager performance reviews
+- **Equity concerns:** Different managers apply skills differently, creating inconsistent employee experience
+  - *Monitoring:* Variation in manager effectiveness ratings across managers
+  - *Mitigation:* Additional support for struggling managers, accountability for low performers
+
+---
 
 ## Stakeholder Feedback Integration
 
 ### Feedback Collection Strategy
 
 #### Formal Feedback Mechanisms
-**Mechanism 1:** [First formal way stakeholders can provide feedback]
-- **Frequency:** [How often this feedback is collected]
-- **Participants:** [Who provides this feedback]
-- **Process:** [How feedback is collected and processed]
 
-**Mechanism 2:** [Second formal feedback mechanism]
-[Follow same structure]
+**Mechanism 1: Quarterly Executive Briefings**
+- **Frequency:** Every 3 months (Months 3, 6, 9, 12, 15, 18, 21, 24)
+- **Participants:** Executive sponsor + leadership team
+- **Process:** Present KPI dashboard, key findings, barriers, and recommendations. Get leadership input on decisions (continue/modify/stop). Document feedback and decisions.
+- **Purpose:** Keep leadership informed, maintain support, make course corrections based on leadership priorities
+
+**Mechanism 2: Manager Feedback Sessions**
+- **Frequency:** Monthly during pilot (Months 2-5), quarterly during rollout (Months 6-24)
+- **Participants:** Participating managers (pilot managers initially, all managers later)
+- **Process:** Facilitated discussion or survey asking: What's working? What's not? What support do you need? What should we change?
+- **Purpose:** Continuous improvement based on manager experience
+
+**Mechanism 3: Employee Pulse Surveys**
+- **Frequency:** Quarterly
+- **Participants:** All early-career employees (pilot + control, then organization-wide)
+- **Process:** Include open-ended question: "What could make this program better?" or "What feedback do you have on the changes you've experienced?"
+- **Purpose:** Get employee perspective on program impact and areas for improvement
 
 #### Informal Feedback Mechanisms  
-**Mechanism:** [How you'll capture informal feedback]
-**Documentation:** [How you'll record and use informal feedback]
+
+**Mechanism: Open Door Policy + Anonymous Feedback Channel**
+- **Approach:**
+  - HR program manager has "open door" for managers and employees to share feedback anytime
+  - Anonymous feedback form (online) for sensitive concerns
+  - Capture informal hallway conversations, one-on-one comments, Slack messages
+- **Documentation:** Log informal feedback themes in shared document, review monthly to identify patterns
+- **Purpose:** Catch issues early before they become major problems
 
 ### Feedback Integration Process
-**How You'll Incorporate Stakeholder Feedback:** [Process for using feedback to improve implementation]
+
+**How We'll Incorporate Stakeholder Feedback:**
+
+1. **Monthly Feedback Review:** HR program manager reviews all feedback collected (formal + informal), identifies themes and urgent issues
+
+2. **Rapid Response:** Urgent issues addressed within 1 week (e.g., if manager reports training conflict with major deadline, adjust schedule)
+
+3. **Quarterly Adjustment Planning:** Every quarter, synthesize feedback and decide on adjustments:
+   - Minor tweaks: Implement immediately (e.g., change workshop timing, add resource to manager library)
+   - Major changes: Pilot test with small group before organization-wide (e.g., change training curriculum)
+
+4. **Stakeholder Validation:** Test proposed changes with stakeholders before implementing (e.g., "We're thinking of changing from 3-hour workshops to 2-hour + self-paced modules - thoughts?")
+
+5. **Communication Loop:** Tell stakeholders what we heard and what we're changing (e.g., "You said workshops were too long. We're piloting shorter format next quarter.")
+
+**Decision-Making Process:**
+- **Keep/Continue:** Feedback is positive, results are positive → maintain current approach
+- **Modify/Adjust:** Feedback suggests improvements, results are mixed → make targeted changes
+- **Pause/Investigate:** Feedback is negative, results are disappointing → pause and conduct root cause analysis before proceeding
+- **Stop/Redesign:** Feedback is overwhelmingly negative, results show no impact → stop current approach and redesign or abandon
+
+---
+
+## Evaluation Reporting
+
+### Reporting Schedule
+
+**Monthly Reports (During Pilot - Months 2-5):**
+- **Audience:** Executive sponsor, HR leadership
+- **Format:** 1-page status update (email or dashboard)
+- **Content:** Workshop completion, attendance, budget tracking, early observations, barriers encountered, next steps
+- **Purpose:** Keep sponsors informed, flag issues early
+
+**Quarterly Reports (Months 3, 6, 9, 12, 15, 18, 21, 24):**
+- **Audience:** Executive leadership team, HR leadership, participating managers
+- **Format:** 5-10 page report + executive summary + KPI dashboard + presentation (for leadership)
+- **Content:**
+  - Executive summary (1 page): Key findings, progress against goals, decisions needed
+  - KPI dashboard: Visual charts showing all metrics (retention, engagement, manager effectiveness, etc.)
+  - Progress narrative: What happened this quarter? What's working? What's not?
+  - Stakeholder feedback summary: Themes from manager and employee feedback
+  - Recommendations: Continue/modify/adjust based on data
+  - Next quarter priorities
+- **Purpose:** Comprehensive progress update, data-driven decision making, maintain momentum
+
+**Semi-Annual Deep Dive (Months 12 and 18):**
+- **Audience:** All stakeholders (leadership, managers, employees)
+- **Format:** 15-25 page comprehensive report + all-hands presentation
+- **Content:**
+  - All quarterly report elements (above)
+  - Plus: Trend analysis (longitudinal data), qualitative findings (interview themes), mediator analysis (Logic Model validation), ROI calculation, unintended consequences assessment, long-term sustainability assessment
+- **Purpose:** Major evaluation milestones, celebrate wins, address challenges, build continued support
+
+**Final Evaluation Report (Month 24):**
+- **Audience:** All stakeholders + external (could be shared publicly or with other organizations)
+- **Format:** 30-40 page comprehensive evaluation report
+- **Content:**
+  - Full 24-month results (did we achieve 75%+ retention?)
+  - Logic Model validation (did intervention work through hypothesized mediators?)
+  - Implementation lessons learned (what made it work or not work?)
+  - ROI analysis (financial case for sustainability)
+  - Sustainability assessment (can this continue long-term?)
+  - Recommendations for other organizations considering similar interventions
+- **Purpose:** Summative evaluation, knowledge sharing, inform decision to sustain/modify/stop
+
+### Report Audiences and Tailored Content
+
+**Leadership Reports:**
+- **What Leaders Need:** Bottom-line results (retention rates, ROI), decisions required, risks/issues, strategic implications
+- **Format:** Executive summary (1 page) + dashboard (1 page) + detailed report (if they want to read more)
+- **Tone:** Business-focused, action-oriented, concise
+
+**Manager Reports:**
+- **What Managers Need:** How they're doing (skill application feedback), what peers are learning (best practices), resources available, program updates
+- **Format:** Manager newsletter (quarterly), feedback reports (individual manager effectiveness scores), community of practice meetings
+- **Tone:** Supportive, practical, peer-oriented
+
+**Employee Reports:**
+- **What Employees Need:** What's happening (program updates), what's changing (improvements based on feedback), why it matters (how it benefits them)
+- **Format:** All-hands announcements, team meetings, internal newsletter
+- **Tone:** Transparent, employee-centric, accessible
+
+**HR Team Reports:**
+- **What HR Needs:** Detailed implementation data (who attended training, who's applying skills), program administration details, budget tracking
+- **Format:** Detailed tracking spreadsheets, weekly program team meetings
+- **Tone:** Operational, detailed, data-rich
+
+### Report Content Framework
+
+**Executive Summary (Every Report):**
+- **1 sentence:** Overall status (on track / ahead / behind / at risk)
+- **3-5 bullets:** Key findings this period
+- **2-3 bullets:** Barriers or risks
+- **1-2 bullets:** Decisions needed from leadership
+- **Bottom line:** What does this mean for the business?
+
+**Progress Against Goals:**
+- **Dashboard View:** Actual vs. target for each KPI (green/yellow/red indicators)
+- **Trend Charts:** Line graphs showing KPIs over time
+- **Narrative:** Are we on track to hit our goals? Where are we ahead/behind?
+
+**Key Findings:**
+- **What We Learned:** Most important discoveries this period (quantitative + qualitative)
+- **Surprises:** Anything unexpected (positive or negative)
+- **Quotes:** Illustrative stakeholder quotes that bring data to life
+
+**Lessons Learned:**
+- **What Worked:** Implementation successes to replicate
+- **What Didn't Work:** Barriers encountered and how we addressed them
+- **What We'd Do Differently:** Retrospective insights for future similar initiatives
+
+**Recommendations:**
+- **Continue:** What to keep doing (evidence it's working)
+- **Modify:** What to adjust and how
+- **Stop:** What to discontinue (not working or not needed)
+- **Start:** New actions to take based on learnings
+
+---
+
+## Continuous Improvement Process
+
+### Learning Integration
+
+**How We'll Use Evaluation Results for Ongoing Improvement:**
+
+1. **Quarterly Learning Review (Months 3, 6, 9, 12, 15, 18, 21, 24):**
+   - Review all data collected (quantitative + qualitative)
+   - Identify: What's working? What's not? What's unclear?
+   - Generate hypotheses: Why are we seeing these results?
+   - Decide: What should we change?
+
+2. **Rapid Cycle Testing:**
+   - When we identify improvement opportunity, test small before scaling
+   - Example: If workshops feel too long, pilot 2-hour format with one cohort before changing all workshops
+   - Measure impact of change (did shorter format work as well?)
+
+3. **Evidence-Based Adjustments:**
+   - Changes must be grounded in data, not just opinions
+   - Example: Don't change training curriculum because one person complained; wait for pattern in feedback
+
+4. **Stakeholder Co-Creation:**
+   - Involve managers and employees in designing improvements
+   - Example: "You said 1-on-1s are awkward. What would make them feel more natural?" → Managers co-create solutions
+
+**Adjustment Mechanisms:**
+
+- **Training Content:** Update curriculum based on what managers struggle with most (e.g., if feedback delivery is hardest skill, add more practice time)
+- **Implementation Approach:** Modify delivery method if not working (e.g., switch from all in-person to hybrid if scheduling is barrier)
+- **Support Structures:** Add resources based on needs (e.g., if managers want 1-on-1 templates, create library)
+- **Measurement:** Refine surveys based on response patterns (e.g., if questions are confusing, reword)
+
+### Knowledge Management
+
+**Documentation Strategy:**
+
+1. **Program Wiki/SharePoint:** Central repository for all program materials
+   - Training curriculum and materials
+   - Manager resource library (templates, guides, best practices)
+   - Evaluation reports and data
+   - Lessons learned document (updated quarterly)
+
+2. **Case Study Development:** Write up program as case study for internal and external sharing
+   - Problem definition
+   - Evidence-based solution design
+   - Implementation approach
+   - Results and lessons learned
+
+3. **Video Library:** Record manager success stories, training highlights, employee testimonials
+
+**Knowledge Sharing:**
+
+1. **Internal Sharing:**
+   - HR team: Share learnings in HR meetings, build organizational memory
+   - Other departments: Offer to help other teams implement similar evidence-based approaches
+   - New managers: Include program in new manager onboarding (perpetuate culture)
+
+2. **External Sharing:**
+   - Professional conferences: Present at SHRM, Academy of Management
+   - Academic partnerships: Partner with university for case study or research publication
+   - Peer organizations: Share with other companies facing similar retention challenges
+   - Industry publications: Write article for HR Magazine, Harvard Business Review
+
+### Sustainability Assessment
+
+**Long-term Viability Evaluation (Month 18 and 24):**
+
+1. **Financial Sustainability:**
+   - Are costs declining as planned? (target: $100-160K/year by Month 24)
+   - Is ROI positive and sustained? (target: 200%+ ongoing)
+   - Can organization afford ongoing investment?
+
+2. **Cultural Sustainability:**
+   - Is manager capability becoming "how we do things"? (embedded in systems)
+   - Do new managers adopt practices without formal training? (cultural transmission)
+   - Is there ongoing demand/support for program?
+
+3. **Resource Sustainability:**
+   - Can internal facilitators sustain without external consultant? (target: yes by Month 24)
+   - Is HR program manager role sustainable long-term?
+   - Are tools and resources self-service? (low maintenance)
+
+4. **Results Sustainability:**
+   - Are retention gains holding or fading?
+   - Are manager skills holding or deteriorating?
+   - Do we need ongoing reinforcement or has it become habit?
+
+**Adaptation Planning (Ongoing):**
+
+**Scenario 1: Program Works But Costs Too Much**
+- **Adaptation:** Shift to lower-cost delivery (internal facilitators, digital resources, peer learning)
+- **Trade-off:** May lose some quality but preserve impact at sustainable cost
+
+**Scenario 2: Program Works for Some Managers/Teams But Not Others**
+- **Adaptation:** Segment approach - intensive support for struggling managers, light touch for successful managers
+- **Trade-off:** Complexity increases but resources focused where needed most
+
+**Scenario 3: Retention Improves But Manager Skills Decline**
+- **Adaptation:** Add accountability mechanisms (manager effectiveness in performance reviews, poor performers face consequences)
+- **Trade-off:** May create resistance but ensures sustained behavior change
+
+**Scenario 4: External Conditions Change (e.g., Labor Market Loosens)**
+- **Adaptation:** Dial back compensation competitiveness (save money), maintain manager development (core capability)
+- **Trade-off:** Accept some retention slippage if labor market makes retention easier
+
+**Long-Term Vision:** By Month 36-48, program should be fully institutionalized, low-cost, high-impact, and self-sustaining. Manager capability is organizational DNA, not an HR program.
+
+---
+
+## Evaluation Summary
+
+This assessment plan provides systematic, rigorous approach to determining whether the Retention Acceleration Program achieves its goals. The plan balances:
+
+- **Rigor:** Quasi-experimental design, multiple data sources, statistical analysis
+- **Practicality:** Uses existing systems where possible, manageable data collection burden
+- **Learning:** Formative evaluation allows mid-course corrections, not just summative judgment
+- **Stakeholder Engagement:** Multiple feedback mechanisms ensure voices are heard
+- **Transparency:** Regular reporting keeps all stakeholders informed
+
+**Critical Success Factor:** We must actually USE the evaluation data to make decisions. Collecting data without acting on findings wastes time and money. The quarterly review cycles ensure we're constantly learning and improving, not just measuring for measurement's sake.
+
+**Logic Model Validation:** By measuring both mediators (job satisfaction, manager quality, career growth perception) and outcomes (retention), we can test whether our theory of change is correct. If retention improves WITHOUT mediator improvements, we know something else is driving retention (not our intervention). If mediators improve BUT retention doesn't, we know our theory is wrong (manager quality might not cause retention in our context).
+
+This evaluation is more than accountability - it's organizational learning and capability building.
 **Decision-Making Process:** [How feedback will influence decisions about continuing/modifying the solution]
 
 ## Evaluation Reporting
@@ -295,15 +993,4 @@
 **Documentation Strategy:** [How you'll document lessons learned]
 **Knowledge Sharing:** [How you'll share learnings with others who might implement similar solutions]
 
-### Sustainability Assessment
-**Long-term Viability Evaluation:** [How you'll assess whether the solution can be sustained long-term]
-**Resource Requirement Assessment:** [How you'll evaluate ongoing resource needs]
-**Adaptation Planning:** [How you'll plan for future modifications based on changing conditions]
-
----
-INSTRUCTIONS:
-1. Design evaluation to answer the most important questions about your solution's effectiveness
-2. Include both quantitative metrics and qualitative insights
-3. Plan for both implementation monitoring and outcome evaluation
-4. Build in mechanisms for continuous improvement based on evaluation findings
-5. Consider different stakeholder information needs in your reporting plan
+This evaluation is more than accountability - it's organizational learning and capability building.
