@@ -3,7 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My EBM Dashboard | MGT357 - Fall 2025</title>
+    
+    <!-- SEO Meta Tags -->
+    <title>Evidence-Based Management Dashboard | Early-Career Employee Retention | MGT357</title>
+    <meta name="description" content="Professional EBM dashboard analyzing early-career employee retention using scientific, practitioner, organizational, and stakeholder evidence. MGT357 Fall 2025 portfolio project by Conrad Dillman.">
+    <meta name="keywords" content="evidence-based management, employee retention, EBM, early-career retention, management analytics, organizational evidence">
+    <meta name="author" content="Conrad Dillman">
+    
+    <!-- Open Graph / Social Media Meta Tags -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://cdillman21.github.io/ebm-dashboard-dillm2cm/">
+    <meta property="og:title" content="Evidence-Based Management Dashboard - Early-Career Retention Analysis">
+    <meta property="og:description" content="Comprehensive EBM analysis of early-career employee retention combining scientific research, practitioner insights, organizational data, and stakeholder perspectives.">
+    <meta property="og:image" content="https://cdillman21.github.io/ebm-dashboard-dillm2cm/visuals/evidence_overview.png">
+    
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Evidence-Based Management Dashboard - Retention Analysis">
+    <meta name="twitter:description" content="Professional EBM portfolio analyzing early-career employee retention with data-driven insights.">
+    <meta name="twitter:image" content="https://cdillman21.github.io/ebm-dashboard-dillm2cm/visuals/evidence_overview.png">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📊</text></svg>">
+    
     <style>
         /* === PROFESSIONAL BUSINESS THEME - ENHANCED === */
         :root {
@@ -1125,6 +1147,11 @@
             box-shadow: 0 8px 25px rgba(0,0,0,0.15);
         }
 
+        /* Lazy loading placeholder */
+        img[loading="lazy"] {
+            background: linear-gradient(135deg, #f0f0f0, #e0e0e0);
+        }
+
         /* === TOOLTIP ENHANCEMENT === */
         [title] {
             position: relative;
@@ -1210,19 +1237,102 @@
             left: 0;
         }
 
+        /* === PRINT STYLES === */
         @media print {
-            .tab-nav, .progress-indicator, .btn, .export-buttons {
-                display: none;
+            body {
+                background: white;
+                padding: 0;
             }
+            
+            .container {
+                box-shadow: none;
+                border: none;
+            }
+            
+            .tab-nav, .progress-indicator, .btn, .export-buttons, #scrollToTop {
+                display: none !important;
+            }
+            
             .tab-panel {
                 display: block !important;
                 page-break-after: always;
+            }
+            
+            .header {
+                background: #2c3e50 !important;
+                -webkit-print-color-adjust: exact;
+                print-color-adjust: exact;
+            }
+            
+            img {
+                max-width: 100%;
+                page-break-inside: avoid;
+            }
+            
+            .stat-card, .content-file-preview, .logic-model-preview {
+                page-break-inside: avoid;
+            }
+            
+            a {
+                text-decoration: underline;
+                color: #2c3e50;
+            }
+            
+            a[href]:after {
+                content: " (" attr(href) ")";
+                font-size: 0.8em;
+                color: #666;
+            }
+        }
+
+        /* === ACCESSIBILITY ENHANCEMENTS === */
+        
+        /* Skip to main content link */
+        .skip-to-main {
+            position: absolute;
+            left: -9999px;
+            top: 20px;
+            z-index: 999;
+            padding: 10px 20px;
+            background: #667eea;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        
+        .skip-to-main:focus {
+            left: 20px;
+            outline: 3px solid #f093fb;
+        }
+        
+        /* Focus visible for keyboard navigation */
+        *:focus-visible {
+            outline: 3px solid #667eea;
+            outline-offset: 2px;
+        }
+        
+        /* High contrast mode support */
+        @media (prefers-contrast: high) {
+            .stat-card, .content-file-preview {
+                border: 2px solid #000;
+            }
+        }
+        
+        /* Reduced motion support */
+        @media (prefers-reduced-motion: reduce) {
+            *, *::before, *::after {
+                animation-duration: 0.01ms !important;
+                animation-iteration-count: 1 !important;
+                transition-duration: 0.01ms !important;
             }
         }
     </style>
 </head>
 <body>
-    <div class="container">
+    <!-- Skip to main content for accessibility -->
+    <a href="#main-content" class="skip-to-main">Skip to main content</a>
+    
+    <div class="container" role="main" id="main-content">
         <div class="header">
             <h1>Evidence-Based Management Dashboard</h1>
             <p>MGT357 - Fall 2025 | Portfolio Project</p>
@@ -1230,7 +1340,7 @@
             <div class="student-info">
                 <div><strong>Student:</strong> Conrad Dillman</div>
                 <div><strong>Problem Focus:</strong> Employee Compensation and Talent Retention in Early Career Professionals</div>
-                <div><strong>Repository:</strong> <a href="https://github.com/cdillman21/ebm-dashboard-dillm2cm" style="color: #74b9ff;">GitHub Repository</a></div>
+                <div><strong>Repository:</strong> <a href="https://github.com/cdillman21/ebm-dashboard-dillm2cm" style="color: #74b9ff;" target="_blank" rel="noopener noreferrer">GitHub Repository</a></div>
                 <div><strong>Last Updated:</strong> <span id="last-updated">Loading...</span></div>
             </div>
         </div>
@@ -1246,26 +1356,26 @@
 
         <div class="tab-container">
             <!-- Tab Navigation -->
-            <div class="tab-nav">
-                <button class="tab-button active" onclick="showTab(1)">Problem & Solution Framework</button>
-                <button class="tab-button" onclick="showTab(2)">Evidence Hub</button>
-                <button class="tab-button" onclick="showTab(3)">Evidence Aggregation</button>
-                <button class="tab-button" onclick="showTab(4)">Application</button>
-                <button class="tab-button" onclick="showTab(5)">Assessment</button>
-            </div>
+            <nav class="tab-nav" role="tablist" aria-label="Dashboard navigation">
+                <button class="tab-button active" onclick="showTab(1)" role="tab" aria-selected="true" aria-controls="tab-1" id="tab-button-1" tabindex="0">Problem & Solution Framework</button>
+                <button class="tab-button" onclick="showTab(2)" role="tab" aria-selected="false" aria-controls="tab-2" id="tab-button-2" tabindex="-1">Evidence Hub</button>
+                <button class="tab-button" onclick="showTab(3)" role="tab" aria-selected="false" aria-controls="tab-3" id="tab-button-3" tabindex="-1">Evidence Aggregation</button>
+                <button class="tab-button" onclick="showTab(4)" role="tab" aria-selected="false" aria-controls="tab-4" id="tab-button-4" tabindex="-1">Application</button>
+                <button class="tab-button" onclick="showTab(5)" role="tab" aria-selected="false" aria-controls="tab-5" id="tab-button-5" tabindex="-1">Assessment</button>
+            </nav>
 
             <!-- Tab Content -->
             <div class="tab-content">
                 <!-- TAB 1: Problem & Solution Framework -->
-                <div class="tab-panel active" id="tab-1">
+                <div class="tab-panel active" id="tab-1" role="tabpanel" aria-labelledby="tab-button-1">
                     <h2>Problem & Solution Framework</h2>
                     
                     <!-- Dashboard Statistics -->
-                    <div class="stats-grid">
+                    <div class="stats-grid" role="region" aria-label="Project statistics">
                         <div class="stat-card">
                             <div class="stat-label">Evidence Files</div>
-                            <div class="stat-number">12/12</div>
-                            <div class="progress-bar-container">
+                            <div class="stat-number" aria-label="12 out of 12 evidence files completed">12/12</div>
+                            <div class="progress-bar-container" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" aria-label="Evidence files progress: 100%">
                                 <div class="progress-bar" style="width: 100%"></div>
                             </div>
                         </div>
@@ -1774,20 +1884,36 @@ Weight the evidence and form recommendations.</pre>
         function showTab(tabNumber) {
             // Hide all tab panels
             const panels = document.querySelectorAll('.tab-panel');
-            panels.forEach(panel => panel.classList.remove('active'));
+            panels.forEach(panel => {
+                panel.classList.remove('active');
+                panel.setAttribute('hidden', '');
+            });
             
             // Remove active class from all tab buttons
             const buttons = document.querySelectorAll('.tab-button');
-            buttons.forEach(button => button.classList.remove('active'));
+            buttons.forEach((button, index) => {
+                button.classList.remove('active');
+                button.setAttribute('aria-selected', 'false');
+                button.setAttribute('tabindex', '-1');
+            });
             
             // Show the selected tab panel
-            document.getElementById(`tab-${tabNumber}`).classList.add('active');
+            const activePanel = document.getElementById(`tab-${tabNumber}`);
+            activePanel.classList.add('active');
+            activePanel.removeAttribute('hidden');
             
             // Add active class to the clicked button
-            buttons[tabNumber - 1].classList.add('active');
+            const activeButton = buttons[tabNumber - 1];
+            activeButton.classList.add('active');
+            activeButton.setAttribute('aria-selected', 'true');
+            activeButton.setAttribute('tabindex', '0');
+            activeButton.focus();
             
             // Update progress indicator
             updateProgressIndicator(tabNumber);
+            
+            // Scroll to top of content
+            window.scrollTo({ top: 0, behavior: 'smooth' });
         }
         
         // Update Progress Indicator based on current tab
@@ -1820,6 +1946,16 @@ Weight the evidence and form recommendations.</pre>
             
             // Add smooth scroll animations on content load
             animateOnScroll();
+            
+            // Initialize keyboard navigation for tabs
+            initKeyboardNavigation();
+            
+            // Add lazy loading to all images
+            document.querySelectorAll('img').forEach(img => {
+                if (!img.hasAttribute('loading')) {
+                    img.setAttribute('loading', 'lazy');
+                }
+            });
         });
 
         // Utility: format date as M/D/YYYY (e.g., 10/5/2025)
@@ -1892,11 +2028,47 @@ Weight the evidence and form recommendations.</pre>
                 observer.observe(el);
             });
         }
+
+        // Keyboard navigation for tabs
+        function initKeyboardNavigation() {
+            const tabButtons = document.querySelectorAll('.tab-button');
+            
+            tabButtons.forEach((button, index) => {
+                button.addEventListener('keydown', function(e) {
+                    let newIndex = index;
+                    
+                    // Arrow right or down - next tab
+                    if (e.key === 'ArrowRight' || e.key === 'ArrowDown') {
+                        e.preventDefault();
+                        newIndex = (index + 1) % tabButtons.length;
+                    }
+                    // Arrow left or up - previous tab
+                    else if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') {
+                        e.preventDefault();
+                        newIndex = (index - 1 + tabButtons.length) % tabButtons.length;
+                    }
+                    // Home - first tab
+                    else if (e.key === 'Home') {
+                        e.preventDefault();
+                        newIndex = 0;
+                    }
+                    // End - last tab
+                    else if (e.key === 'End') {
+                        e.preventDefault();
+                        newIndex = tabButtons.length - 1;
+                    }
+                    
+                    if (newIndex !== index) {
+                        showTab(newIndex + 1);
+                    }
+                });
+            });
+        }
     </script>
     <script src="content-loader.js"></script>
 
     <!-- Scroll to Top Button -->
-    <button id="scrollToTop" title="Back to top">↑</button>
+    <button id="scrollToTop" title="Back to top" aria-label="Scroll back to top of page">↑</button>
 
 </body>
 </html>
