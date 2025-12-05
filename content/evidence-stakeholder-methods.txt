@@ -144,7 +144,7 @@ equity, sustainability, fairness, other)
 
 **Topic 3: Solution Brainstorming (30 minutes)**
 - "If you could change one thing to improve retention, what would it be?"
-- "React to these potential solutions: [present 3-4 evidence-based options]"
+- "React to these potential solutions: (1) competitive compensation adjustments, (2) manager development training, (3) career path transparency, (4) retention bonuses"
 - "What would make these solutions work (or fail) in our context?"
 
 **Topic 4: Implementation Realities (15 minutes)**
@@ -316,7 +316,7 @@ incentives
 
 **Solution Discussion:**
 - What solutions have you considered or tried?
-- How do you think [proposed solution] would work in practice?
+- How do you think a Retention Acceleration Program combining competitive compensation and manager development would work in practice?
 - What challenges or barriers do you foresee?
 
 **Implementation Questions:**
@@ -326,7 +326,7 @@ incentives
 
 ### Focus Groups (if applicable)
 #### Focus Group Design
-- **Group Size:** [Target number of participants per group]
+- **Group Size:** 6-8 participants per group for optimal discussion balance
 - **Number of Groups:** 8-10 focus groups (2 per stakeholder category)
 - **Group Composition:** Homogeneous groups by role (employees separate from managers for honest discussion)
 - **Facilitation:** External facilitator from HR consulting firm to ensure candid feedback without supervisor presence
@@ -365,39 +365,39 @@ CHRO approval, department head support, communications team for messaging
 - **Purpose Explanation:** Studying early-career retention to design evidence-based solutions
 - **Participation Voluntariness:** Completely voluntary with no employment impact
 - **Data Use:** Aggregated analysis only, no individual responses shared with managers
-- **Anonymity/Confidentiality:** [What privacy protections you'll provide]
+- **Anonymity/Confidentiality:** Survey responses anonymous; interview quotes de-identified; individual data stored securely and destroyed after 1 year
 
 ### Organizational Permissions
-- **Supervisor Approval:** [Do you need management approval for stakeholder engagement?]
-- **HR Consultation:** [Should you coordinate with HR for employee surveys/interviews?]
-- **External Stakeholder Protocols:** [Any special considerations for external stakeholders?]
+- **Supervisor Approval:** CHRO and CEO approval secured for company-wide stakeholder engagement initiative
+- **HR Consultation:** HR Business Partners consulted to ensure compliance with company policies and employee relations best practices
+- **External Stakeholder Protocols:** Former employees (exit interview participants) contacted only if they consented to follow-up contact during exit process
 
 ## Timeline and Logistics
 
 ### Data Collection Schedule
-- **Survey Launch:** [When you'll distribute surveys]
-- **Survey Close:** [Deadline for survey responses]
-- **Interview Period:** [Window for conducting interviews]
-- **Focus Group Dates:** [When focus groups will occur]
-- **Follow-up Period:** [Time for additional questions or clarifications]
+- **Survey Launch:** Week 1, Monday 9 AM via company email
+- **Survey Close:** Week 3, Friday 5 PM (2-week collection window)
+- **Interview Period:** Weeks 2-5 (overlapping with survey for efficiency)
+- **Focus Group Dates:** Weeks 4-6 (after survey data collection for informed discussion questions)
+- **Follow-up Period:** Week 7 for any clarifications or additional questions
 
 ### Logistical Planning
 #### Survey Distribution
-- **Distribution Method:** [Email, paper, internal systems]
-- **Reminder Schedule:** [When you'll send follow-up reminders]
-- **Technical Support:** [How you'll help participants with technical issues]
+- **Distribution Method:** Email via Qualtrics platform with unique anonymous links
+- **Reminder Schedule:** Reminder emails at Day 5, Day 10, and Day 13
+- **Technical Support:** IT help desk available for platform access issues; HR contact for content questions
 
 #### Interview Scheduling
-- **Scheduling Method:** [How you'll coordinate interview times]
-- **Location Planning:** [Where interviews will take place]
-- **Equipment Needs:** [Recording equipment, note-taking materials]
+- **Scheduling Method:** Calendly links sent to selected participants for self-scheduling within designated time blocks
+- **Location Planning:** Private conference rooms for in-person; Zoom for remote employees
+- **Equipment Needs:** Digital recorder with participant consent; real-time transcription via Otter.ai; backup note-taking
 
 ## Response Rate Strategy
 
 ### Maximizing Participation
 #### Engagement Tactics
-- **Leadership Endorsement:** [Getting visible support from management]
-- **Clear Value Proposition:** [Explaining how participation benefits stakeholders]
+- **Leadership Endorsement:** CEO and CHRO co-sign invitation email emphasizing organizational commitment to retention improvements
+- **Clear Value Proposition:** "Your input will directly inform compensation and development programs launching in the next quarter"
 - **Convenient Participation:** [Making it easy to participate]
 - **Multiple Touchpoints:** [Various opportunities to engage]
 
